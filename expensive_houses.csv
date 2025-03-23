@@ -1,0 +1,1001 @@
+Price,Area,Bedrooms,Bathrooms,Age,Distance_to_CBD,Land_Size,Property_Tax,Interest_Rate,School_Quality,Crime_Rate,Type_of_Property,Neighbourhood,Public_Transport,Has_Garage,Renovated,Heating_Type
+100000.0,87.36,1,3,71,30.39,330.69,6065.64,2.98,0.54,46.19,Townhouse,Rural,High,Yes,Yes,
+356566.52,233.96,3,2,54,47.7,766.42,3811.98,7.12,4.93,10.36,Townhouse,Suburban,High,Yes,Yes,Solar
+382318.0,281.88,4,3,7,37.28,627.54,4949.35,2.26,0.86,10.99,Apartment,Suburban,Moderate,No,No,Electric
+817383.98,228.6,3,3,16,4.57,330.6,1711.85,8.94,2.29,31.95,Detached House,Inner City,,No,Yes,Gas
+694200.77,150.23,5,3,17,8.2,389.36,7677.46,2.63,2.32,93.66,Apartment,Inner City,High,No,No,Solar
+717110.07,181.56,2,2,78,19.92,514.25,3746.26,6.75,8.58,49.16,Townhouse,Inner City,,Yes,Yes,Electric
+614143.32,312.83,5,4,10,38.45,1184.7,3107.72,7.2,3.09,52.62,Detached House,Suburban,High,Yes,No,Gas
+390483.4,270.91,4,3,21,29.85,424.23,3422.03,6.33,7.37,53.28,Apartment,Suburban,Moderate,Yes,No,Electric
+772672.42,465.35,6,3,86,37.57,1735.56,5583.95,2.65,1.19,93.34,Detached House,Suburban,Moderate,Yes,No,
+162424.31,175.91,2,1,78,38.81,196.58,1335.81,7.01,1.04,95.3,Townhouse,Suburban,Moderate,No,Yes,
+520501.48,397.27,4,2,11,13.7,822.83,5346.76,6.35,7.04,20.92,Townhouse,Rural,Moderate,No,No,Solar
+684106.69,435.58,6,4,16,44.97,937.8,8840.85,5.47,5.93,12.57,Townhouse,Inner City,High,No,No,Gas
+881770.53,391.15,4,2,4,7.03,896.79,8998.87,4.03,9.76,44.26,Detached House,Rural,Moderate,No,Yes,Gas
+623979.01,432.64,6,4,45,30.85,1359.37,4116.7,7.66,7.74,65.3,Apartment,Suburban,,No,Yes,Solar
+427251.53,234.18,4,3,6,42.8,747.1,4467.23,3.9,3.51,57.24,Townhouse,Suburban,High,No,Yes,Solar
+481275.01,74.76,2,1,18,27.71,209.9,3653.83,3.04,8.29,8.71,Detached House,Rural,Moderate,No,Yes,Electric
+882310.97,310.16,5,4,18,3.17,618.2,7900.65,2.44,3.15,1.32,Apartment,Inner City,Moderate,Yes,No,Solar
+934516.33,385.27,5,3,22,5.26,608.29,9869.39,4.0,3.38,61.95,Detached House,Inner City,High,No,No,Solar
+839127.07,448.84,5,3,81,14.07,1169.53,4573.82,5.56,8.33,62.57,Detached House,Rural,Moderate,Yes,No,
+637880.08,63.85,2,2,89,4.12,241.94,8799.52,6.94,7.88,6.95,Detached House,Suburban,Moderate,Yes,No,Electric
+847379.35,331.2,5,4,33,24.27,1237.82,5155.13,3.35,4.26,85.97,Townhouse,Inner City,,No,Yes,Solar
+536657.62,321.59,6,3,17,35.88,718.01,5095.11,6.93,4.44,77.25,Detached House,Rural,High,No,Yes,Solar
+197489.58,84.76,1,4,68,32.84,217.98,7651.32,9.03,5.74,63.17,Apartment,Inner City,High,No,No,Gas
+556233.4,236.23,4,4,35,36.05,621.69,1650.28,4.82,4.68,58.81,Apartment,Inner City,,No,Yes,
+682448.17,204.22,4,4,31,7.85,393.24,6866.96,6.47,2.73,85.31,Detached House,Suburban,High,No,No,Electric
+565127.69,141.0,3,4,43,42.32,299.34,1750.71,3.39,5.75,72.32,Detached House,Inner City,,Yes,No,Electric
+577433.69,428.1,5,4,35,34.7,1468.67,4380.26,9.33,2.22,56.09,Townhouse,Rural,,No,Yes,Electric
+713083.49,169.74,2,3,40,13.7,592.92,2478.43,4.37,8.46,6.45,Detached House,Suburban,Moderate,Yes,No,Electric
+635620.04,424.03,6,4,35,38.54,1170.02,2113.2,7.8,0.17,18.82,Apartment,Inner City,High,Yes,No,
+720817.91,223.11,3,3,2,4.28,724.82,1898.01,5.03,1.11,10.22,Detached House,Suburban,Moderate,No,Yes,Solar
+830455.96,419.32,6,4,48,8.12,1226.36,3924.46,5.45,5.4,50.94,Townhouse,Rural,High,Yes,Yes,Electric
+322937.53,188.47,3,2,51,36.17,213.78,8318.45,5.72,1.77,21.39,Townhouse,Suburban,Moderate,Yes,Yes,
+256628.84,248.0,3,3,52,18.36,867.02,3883.67,7.54,4.99,35.82,Apartment,Rural,,No,Yes,Electric
+839314.56,439.43,5,4,17,10.57,1233.42,8730.34,3.53,3.4,84.43,Detached House,Rural,High,No,Yes,
+408636.49,99.79,3,2,96,2.56,347.53,1282.99,3.56,1.39,66.35,Townhouse,Suburban,Moderate,No,No,
+822262.21,486.49,6,3,16,19.53,1391.01,8274.72,3.9,5.98,20.52,Apartment,Suburban,,Yes,Yes,Gas
+578240.84,136.61,3,3,61,28.76,457.62,9989.42,3.29,2.33,40.52,Townhouse,Inner City,High,No,Yes,Gas
+714675.85,472.74,5,3,62,28.48,1655.12,9632.36,3.78,6.35,28.66,Townhouse,Rural,,No,Yes,Gas
+411030.96,116.87,2,3,95,33.61,352.76,1221.64,9.28,7.42,60.46,Townhouse,Inner City,,Yes,No,Gas
+337246.06,192.89,4,3,27,35.97,732.28,7576.52,5.49,4.59,77.69,Apartment,Rural,,Yes,Yes,Electric
+312280.82,110.69,4,4,81,21.02,239.04,1152.18,4.61,4.36,20.08,Apartment,Rural,,Yes,Yes,
+736972.72,421.32,6,4,15,10.5,1241.14,6683.91,6.4,2.57,43.82,Townhouse,Rural,,No,No,Solar
+535624.99,352.2,6,4,64,39.32,1219.6,9533.42,4.89,3.62,63.68,Apartment,Suburban,Moderate,Yes,Yes,Gas
+701622.56,159.09,2,1,15,21.18,430.41,3218.79,6.75,5.0,14.2,Townhouse,Inner City,,Yes,Yes,Gas
+298562.99,238.46,3,3,81,25.69,361.1,8030.68,8.89,1.08,5.63,Detached House,Rural,Moderate,Yes,No,Solar
+514203.79,197.5,4,2,59,20.87,647.57,8348.82,5.73,6.66,34.64,Apartment,Inner City,High,No,No,Gas
+886957.63,478.89,6,3,76,21.53,1521.75,7439.37,7.65,9.4,26.97,Detached House,Suburban,Moderate,No,No,Solar
+398771.66,161.75,4,3,85,1.87,349.27,9603.13,8.23,0.12,46.59,Apartment,Rural,High,No,Yes,
+731354.04,251.49,6,3,92,5.92,932.37,6759.0,9.86,3.45,43.46,Detached House,Rural,High,No,No,Gas
+612032.61,117.36,5,4,89,32.92,313.79,5101.59,7.96,5.52,77.45,Apartment,Inner City,Moderate,Yes,Yes,
+827602.29,239.35,3,4,10,4.13,706.51,8439.05,7.49,1.17,2.33,Townhouse,Inner City,Moderate,No,Yes,
+1144474.49,426.26,6,4,59,2.4,1016.95,6179.94,3.2,9.09,89.23,Detached House,Suburban,High,Yes,No,Electric
+411048.48,284.85,5,4,72,26.77,890.47,7064.21,3.31,3.59,81.96,Apartment,Rural,Moderate,No,Yes,
+258691.83,148.04,3,4,51,45.26,365.58,5107.63,3.91,4.29,4.67,Detached House,Rural,,No,Yes,
+114751.41,161.41,2,2,94,36.05,175.32,7182.14,8.32,2.01,87.55,Townhouse,Suburban,Moderate,No,Yes,Electric
+1073254.85,214.7,4,3,2,9.96,752.87,9927.62,2.36,6.88,38.15,Detached House,Inner City,Moderate,Yes,Yes,Gas
+895805.24,155.03,5,4,23,33.23,416.05,2453.95,5.88,5.38,82.42,Detached House,Inner City,High,No,Yes,
+720725.67,385.09,5,3,87,11.4,490.62,1013.06,2.99,1.88,92.13,Townhouse,Suburban,,No,Yes,Electric
+440522.76,137.47,2,2,18,2.88,302.26,8244.49,7.13,4.99,85.92,Apartment,Suburban,Moderate,No,Yes,
+568144.1,303.33,5,3,17,26.25,883.11,3831.22,7.27,3.14,60.49,Apartment,Suburban,Moderate,Yes,Yes,
+431418.91,268.27,3,2,4,19.34,308.28,1533.83,8.76,7.11,46.44,Apartment,Suburban,,Yes,No,Solar
+608919.1,250.01,5,4,91,48.35,738.03,9236.64,4.1,9.63,21.2,Detached House,Suburban,,Yes,Yes,Solar
+420894.35,73.13,2,2,59,28.8,175.0,8421.74,9.1,4.99,87.48,Apartment,Inner City,High,Yes,Yes,Electric
+457821.83,187.9,2,1,86,35.79,602.4,9898.76,2.38,8.93,95.14,Detached House,Suburban,Moderate,No,Yes,
+206812.12,306.64,4,4,65,30.72,742.26,8841.71,7.09,2.75,91.03,Apartment,Rural,,No,Yes,Solar
+100000.0,50.2,1,1,53,41.24,197.41,4302.32,6.79,6.61,71.41,Townhouse,Rural,,Yes,Yes,Gas
+584575.05,272.76,3,4,85,5.61,475.79,7069.89,3.82,9.46,85.07,Apartment,Rural,High,No,Yes,Electric
+454223.82,304.37,5,4,38,43.91,970.0,6038.05,5.21,9.95,57.38,Townhouse,Rural,High,No,No,Electric
+739125.55,206.0,5,3,91,32.78,278.28,1401.45,9.84,5.46,25.69,Detached House,Inner City,,No,No,Electric
+100000.0,134.78,3,2,5,45.97,435.46,9101.46,3.96,0.49,76.37,Apartment,Rural,,No,Yes,Solar
+282151.76,336.84,4,3,93,49.88,338.77,6549.67,7.75,5.31,68.88,Townhouse,Suburban,High,No,No,Electric
+695527.87,448.77,6,4,46,24.33,938.29,3248.14,8.53,0.35,67.62,Townhouse,Inner City,High,No,Yes,Gas
+393421.61,414.61,5,4,22,34.16,919.47,4473.0,2.57,1.24,99.05,Apartment,Rural,Moderate,Yes,Yes,Gas
+931900.4,446.34,6,3,36,2.23,840.87,1863.79,7.89,1.01,23.93,Detached House,Suburban,High,No,Yes,
+763770.78,311.49,4,4,21,13.36,1016.1,7532.39,2.68,5.35,26.84,Apartment,Suburban,Moderate,Yes,Yes,
+426935.55,207.78,4,4,39,43.26,548.78,3518.32,3.71,2.64,46.69,Townhouse,Suburban,High,Yes,No,Solar
+457745.75,134.35,3,3,31,5.0,393.55,9778.41,8.36,3.49,83.28,Detached House,Rural,High,No,No,Electric
+616638.29,476.46,6,3,6,35.94,560.54,3494.78,7.44,1.85,53.69,Townhouse,Suburban,High,No,No,Solar
+384113.3,192.47,2,2,72,20.23,764.95,4981.5,2.36,5.21,14.08,Townhouse,Rural,High,Yes,Yes,Gas
+358074.9,126.28,4,2,20,26.41,257.91,4701.56,3.69,5.94,37.67,Apartment,Rural,Moderate,Yes,Yes,Solar
+840492.31,227.5,5,3,1,11.97,496.27,5784.51,9.41,3.67,35.36,Detached House,Inner City,,No,No,Solar
+466204.23,131.75,2,1,55,15.84,300.33,7721.59,9.63,8.36,33.2,Apartment,Inner City,Moderate,No,No,
+870231.42,474.63,5,4,29,28.96,1640.46,2466.11,6.75,3.18,15.54,Apartment,Inner City,High,Yes,Yes,Gas
+758475.05,395.19,4,3,21,6.04,685.88,4302.23,4.45,6.07,75.63,Apartment,Inner City,Moderate,No,No,Solar
+439223.44,283.42,3,3,67,46.69,607.86,2219.51,6.44,9.9,24.93,Detached House,Suburban,,No,No,
+647374.7,459.16,6,4,56,46.29,1239.09,6206.43,8.54,1.85,33.27,Townhouse,Inner City,High,Yes,No,Electric
+537941.85,337.67,6,3,25,43.86,341.27,8698.04,9.03,9.63,68.36,Townhouse,Suburban,Moderate,No,Yes,Gas
+635068.67,131.15,2,2,76,8.92,284.62,3794.28,4.22,1.42,48.74,Townhouse,Inner City,,Yes,No,Gas
+252458.05,253.26,4,4,57,39.17,597.76,2679.17,6.52,3.16,65.92,Apartment,Suburban,Moderate,No,Yes,
+250783.79,149.15,2,2,38,38.7,384.86,5715.41,7.25,2.18,52.52,Detached House,Rural,Moderate,Yes,No,Solar
+436904.46,268.52,4,4,83,35.28,961.53,9228.38,9.47,8.13,66.47,Townhouse,Rural,Moderate,No,Yes,Electric
+577988.61,153.36,3,3,10,11.14,291.03,2901.03,8.16,7.24,80.77,Apartment,Suburban,High,Yes,Yes,Electric
+240291.04,123.47,2,3,96,47.98,170.66,4122.73,4.11,0.82,10.6,Detached House,Suburban,Moderate,No,Yes,Solar
+628919.22,203.51,5,3,83,34.55,626.86,8442.03,9.06,7.87,28.34,Detached House,Suburban,Moderate,Yes,Yes,Solar
+570776.18,199.42,3,2,78,15.47,268.39,7156.18,9.64,0.44,91.83,Detached House,Inner City,,Yes,No,Electric
+748355.57,186.08,3,2,71,10.02,668.31,4242.23,8.35,2.72,48.2,Townhouse,Inner City,,Yes,Yes,
+506616.15,262.89,3,3,92,13.86,976.25,1560.72,5.89,9.56,55.2,Townhouse,Rural,High,Yes,No,Gas
+252624.83,268.75,4,2,93,45.32,747.35,4315.33,6.97,2.07,73.56,Apartment,Inner City,Moderate,Yes,No,
+836845.62,426.62,5,4,64,32.43,1410.58,5080.96,9.43,7.42,40.56,Townhouse,Inner City,Moderate,Yes,No,Gas
+665431.96,352.12,4,4,16,38.13,977.63,5467.26,8.72,6.19,15.25,Detached House,Suburban,,Yes,No,Gas
+282073.57,194.91,3,4,3,30.57,251.57,8790.28,6.83,3.93,76.3,Townhouse,Rural,,No,No,Electric
+417135.78,246.14,3,2,56,37.09,744.9,2629.16,2.15,5.25,11.9,Apartment,Inner City,,No,Yes,Gas
+551386.08,234.93,3,2,73,29.21,586.15,4371.76,5.85,2.02,80.86,Detached House,Inner City,,Yes,No,Gas
+604951.49,121.33,3,3,50,10.0,248.15,6049.18,9.91,7.09,21.71,Detached House,Suburban,High,Yes,No,Gas
+302910.24,139.39,2,1,71,5.16,387.42,7519.0,9.44,5.92,94.71,Apartment,Rural,,Yes,No,Gas
+683238.4,411.64,6,3,21,28.76,1633.95,6524.57,3.95,7.21,32.52,Apartment,Suburban,High,Yes,No,Solar
+320140.9,288.1,3,2,82,46.73,748.31,2203.57,8.28,1.47,68.51,Townhouse,Inner City,Moderate,No,Yes,
+284480.85,462.93,6,3,10,38.7,1498.28,2914.54,9.75,5.44,98.57,Apartment,Rural,,No,No,
+478592.9,226.24,3,3,22,30.35,653.79,4303.95,7.97,6.52,88.44,Detached House,Suburban,,Yes,No,Solar
+601562.5,134.06,3,2,37,42.47,385.93,6098.57,4.83,8.15,35.39,Detached House,Inner City,,No,Yes,Gas
+916181.03,207.32,3,3,36,16.31,696.73,7149.2,6.12,8.13,55.1,Detached House,Inner City,Moderate,No,Yes,Gas
+100000.0,113.35,2,2,79,47.61,246.14,1269.99,8.89,9.34,59.85,Apartment,Rural,,No,No,Gas
+533425.44,266.71,4,2,16,19.82,927.21,6984.5,9.32,8.92,3.99,Townhouse,Rural,High,Yes,No,
+613306.9,441.43,6,4,56,6.6,469.0,8329.19,2.87,7.35,91.04,Apartment,Rural,Moderate,No,No,Solar
+596933.78,141.99,3,3,14,10.75,423.17,6366.31,4.58,1.79,70.94,Townhouse,Suburban,High,No,Yes,Gas
+163289.86,151.72,4,2,75,43.2,451.92,1719.48,2.4,3.59,72.68,Townhouse,Rural,,Yes,No,Solar
+348616.04,138.44,3,3,18,7.55,270.02,2330.72,9.66,3.83,59.03,Apartment,Rural,High,No,Yes,Solar
+373938.85,143.43,2,3,32,10.3,297.5,2424.25,6.39,5.57,33.55,Townhouse,Rural,High,Yes,No,Gas
+585344.44,296.27,4,4,37,16.38,1012.69,9397.05,6.61,0.55,17.21,Apartment,Suburban,Moderate,No,Yes,Gas
+466630.0,456.59,5,4,94,29.74,1082.41,6435.76,8.71,1.34,23.05,Apartment,Suburban,,No,No,Solar
+621265.44,325.24,5,4,60,39.63,1019.97,3341.1,7.34,4.84,20.31,Detached House,Suburban,Moderate,No,Yes,Gas
+582241.46,291.93,4,2,19,16.41,1092.47,5931.52,8.66,5.4,74.32,Detached House,Suburban,,No,No,Gas
+1150892.36,487.94,5,3,93,1.13,490.25,7090.34,3.6,9.75,49.2,Apartment,Inner City,,Yes,Yes,
+618866.92,469.57,5,3,24,5.39,999.74,1327.48,3.41,5.88,11.2,Apartment,Rural,Moderate,No,No,Solar
+599668.67,107.16,2,3,28,5.12,143.47,3844.52,9.21,7.88,52.5,Apartment,Suburban,Moderate,Yes,Yes,Gas
+849584.27,398.49,6,3,86,13.62,789.13,7404.7,8.97,4.5,73.91,Detached House,Suburban,Moderate,Yes,No,Electric
+580784.47,91.88,2,3,76,3.2,241.65,1498.43,5.87,7.15,27.31,Townhouse,Suburban,Moderate,Yes,No,
+635381.84,490.44,5,4,100,14.3,497.73,8901.03,4.06,3.23,54.55,Townhouse,Rural,High,No,Yes,Solar
+1076254.34,450.69,6,3,79,4.39,624.26,1821.61,2.75,5.17,81.78,Townhouse,Inner City,Moderate,Yes,Yes,
+694570.59,279.47,4,2,70,0.65,298.54,6829.82,5.53,1.57,83.2,Townhouse,Suburban,High,Yes,Yes,Solar
+584750.36,181.26,3,2,6,31.86,262.66,5719.48,6.29,3.86,66.23,Detached House,Suburban,Moderate,Yes,Yes,Gas
+344161.98,190.17,4,2,67,29.72,546.9,7248.16,2.02,2.73,52.33,Townhouse,Suburban,Moderate,No,No,Gas
+435534.16,252.44,3,3,22,24.63,272.36,8932.12,2.57,0.55,20.88,Townhouse,Rural,High,Yes,Yes,Solar
+667236.35,215.4,3,2,71,32.73,443.05,9172.27,5.29,9.86,74.8,Townhouse,Inner City,Moderate,Yes,Yes,Electric
+577204.55,389.38,6,4,61,38.05,491.93,7893.06,7.51,4.4,7.74,Detached House,Rural,Moderate,No,No,Gas
+263117.79,58.48,1,2,12,48.34,233.31,9718.93,5.27,1.11,62.17,Detached House,Inner City,Moderate,No,No,Solar
+697088.98,391.85,4,2,84,20.88,1514.86,5167.44,2.35,2.04,80.72,Apartment,Inner City,Moderate,No,Yes,Electric
+453538.21,488.61,5,4,49,18.6,557.11,9939.77,5.49,1.05,78.72,Apartment,Rural,Moderate,No,No,Gas
+788778.45,404.86,5,3,18,26.45,471.48,5184.11,8.53,6.78,5.22,Townhouse,Inner City,,Yes,No,Gas
+512763.69,335.41,5,4,62,32.72,1021.77,6462.11,5.4,5.35,37.07,Apartment,Suburban,High,No,Yes,Gas
+149016.49,194.78,3,3,16,49.82,708.55,9608.69,5.02,5.93,0.61,Apartment,Rural,Moderate,No,Yes,Gas
+632889.27,218.8,3,3,57,0.82,520.08,2020.06,4.8,1.77,3.98,Detached House,Suburban,,No,No,Solar
+100000.0,134.69,2,1,97,35.55,353.04,1706.96,9.95,0.8,97.08,Townhouse,Suburban,,Yes,No,
+672207.66,319.42,5,4,16,4.97,985.61,5204.73,9.76,2.81,96.11,Townhouse,Suburban,,No,No,Electric
+483783.69,73.15,2,1,49,29.31,77.61,2473.14,8.64,4.74,62.64,Townhouse,Inner City,,Yes,Yes,
+466284.26,96.65,2,1,81,25.59,327.49,8599.06,2.63,5.28,20.33,Townhouse,Inner City,,No,No,Electric
+642893.32,370.86,4,3,100,30.12,526.91,3506.27,6.1,9.4,53.62,Detached House,Rural,,Yes,Yes,Electric
+210885.76,345.03,5,4,41,49.26,668.79,1364.77,2.74,0.87,62.01,Apartment,Rural,Moderate,No,Yes,Gas
+294988.73,217.51,3,2,55,34.68,265.87,5711.59,9.8,10.0,32.47,Apartment,Rural,Moderate,No,Yes,
+974877.52,457.31,6,3,2,12.08,526.1,9184.24,7.68,0.19,27.41,Detached House,Inner City,Moderate,Yes,No,Solar
+1074369.0,317.92,6,4,56,15.46,641.84,5569.43,3.4,7.25,70.17,Detached House,Inner City,Moderate,Yes,No,Electric
+512928.75,430.0,6,4,78,38.17,1324.36,7595.23,9.78,4.66,90.41,Townhouse,Rural,,Yes,Yes,Electric
+605022.12,437.55,6,4,73,42.68,1544.49,2061.45,7.43,5.46,14.92,Apartment,Rural,,Yes,Yes,Solar
+326167.04,171.08,5,4,63,42.48,272.93,6249.19,5.94,3.22,68.31,Townhouse,Rural,,No,No,
+756505.29,487.28,5,4,94,14.27,807.33,3658.18,7.58,2.5,50.95,Townhouse,Rural,,Yes,Yes,Solar
+788977.42,497.91,6,3,89,12.64,656.89,2905.2,3.99,5.49,58.35,Townhouse,Suburban,Moderate,Yes,Yes,Electric
+1099619.7,406.34,6,3,90,1.47,898.56,1131.21,8.34,8.36,85.16,Townhouse,Inner City,Moderate,No,No,Gas
+710583.61,221.68,4,3,12,28.1,850.07,3582.11,8.17,6.69,84.86,Detached House,Suburban,,Yes,Yes,Solar
+758963.39,360.35,6,3,36,32.66,489.19,3009.37,4.92,5.3,20.99,Townhouse,Inner City,Moderate,No,No,Solar
+844145.12,271.8,6,4,24,17.66,547.57,1777.39,8.58,0.82,79.82,Detached House,Suburban,Moderate,Yes,Yes,Electric
+987679.99,257.94,5,3,24,2.01,485.12,2311.74,8.24,9.81,82.16,Townhouse,Inner City,,No,Yes,Solar
+669059.81,353.61,5,4,75,27.73,810.62,4086.33,6.44,5.49,95.39,Townhouse,Inner City,High,No,No,Electric
+526395.83,442.67,6,4,43,40.67,1131.62,8449.23,2.86,6.94,62.0,Apartment,Rural,,Yes,Yes,Electric
+658217.43,487.97,6,4,57,40.93,493.18,2378.53,5.75,5.18,10.98,Townhouse,Suburban,,Yes,Yes,Gas
+657469.82,361.52,5,3,89,30.42,830.69,9013.77,7.33,3.24,31.93,Townhouse,Inner City,High,Yes,No,Gas
+359932.93,179.96,4,2,32,42.0,318.63,7633.46,6.31,4.59,66.55,Apartment,Inner City,High,No,Yes,Gas
+514401.48,186.41,3,2,35,39.01,453.88,9959.11,4.48,6.01,61.83,Detached House,Suburban,,No,Yes,Gas
+247894.64,100.23,2,2,38,6.79,122.11,9631.29,8.17,3.96,33.82,Apartment,Suburban,High,No,No,
+634562.12,53.05,1,1,2,10.57,120.19,8109.88,5.3,5.88,91.08,Detached House,Inner City,Moderate,No,Yes,Gas
+100000.0,114.61,2,1,99,47.84,171.56,7524.64,9.07,7.05,74.31,Apartment,Suburban,Moderate,No,No,Electric
+629345.76,136.15,3,3,96,18.81,470.92,2813.82,2.62,9.41,37.71,Detached House,Suburban,Moderate,No,No,Solar
+705955.88,316.49,5,4,19,8.39,494.2,8178.54,4.25,0.11,8.07,Townhouse,Rural,High,No,No,Solar
+963946.61,424.62,6,4,69,2.71,1410.82,1127.77,8.39,1.35,20.32,Townhouse,Inner City,High,No,No,
+679812.45,448.56,6,4,89,5.69,898.19,6824.74,7.49,8.34,63.87,Apartment,Rural,High,Yes,No,Solar
+1022252.21,418.46,5,3,35,11.0,1403.86,7052.42,7.0,7.19,99.05,Detached House,Suburban,,Yes,Yes,Gas
+745817.52,431.75,5,4,20,43.89,734.01,5398.39,4.84,5.19,79.62,Townhouse,Inner City,,Yes,No,Solar
+572278.21,487.82,6,4,32,47.75,1177.07,8846.14,5.57,3.57,58.17,Townhouse,Rural,Moderate,Yes,Yes,Gas
+632430.44,407.59,6,4,62,47.58,1529.37,2554.14,2.55,7.58,70.64,Detached House,Rural,High,Yes,No,Gas
+729755.91,221.44,5,4,91,4.63,784.99,6058.85,5.79,0.41,66.98,Apartment,Inner City,High,Yes,No,Electric
+313793.57,99.07,3,2,8,14.41,124.21,9749.27,6.86,4.13,40.89,Townhouse,Rural,High,No,Yes,
+539575.64,115.6,3,4,2,32.37,316.07,5500.0,5.91,5.83,93.16,Townhouse,Inner City,,No,No,Solar
+665626.32,132.82,6,4,18,17.22,265.98,4849.0,7.0,4.06,23.08,Apartment,Inner City,High,Yes,No,Electric
+613080.35,347.93,5,4,19,35.1,908.4,1101.51,4.17,1.27,15.27,Detached House,Rural,High,Yes,Yes,Solar
+243654.0,282.27,3,2,80,48.72,597.12,5200.69,9.51,6.55,12.23,Apartment,Suburban,Moderate,Yes,No,
+407920.27,391.3,4,3,78,30.42,429.35,9689.63,5.38,9.11,26.22,Apartment,Rural,,Yes,No,
+693309.0,298.84,5,4,33,39.1,392.29,1371.69,3.53,6.76,45.14,Detached House,Rural,Moderate,Yes,Yes,Gas
+844076.58,318.85,5,4,72,30.31,810.7,6753.78,3.62,8.39,25.93,Townhouse,Inner City,,No,Yes,
+307313.91,110.36,2,3,37,14.36,401.32,9994.04,9.36,9.28,7.26,Apartment,Rural,High,Yes,No,Gas
+425830.44,355.45,4,4,78,37.6,709.5,1151.02,7.79,1.94,51.46,Townhouse,Suburban,High,No,No,Electric
+609203.85,218.73,3,2,83,4.31,463.14,3803.12,2.73,6.52,84.49,Detached House,Rural,Moderate,Yes,No,Gas
+727913.49,205.81,3,2,3,15.19,769.75,5349.51,2.03,3.11,2.83,Apartment,Inner City,,Yes,Yes,
+427061.63,269.08,6,4,52,49.62,670.86,8789.33,6.42,4.22,89.96,Detached House,Rural,Moderate,Yes,No,Gas
+373031.99,392.94,5,3,42,39.16,576.92,9880.68,4.96,7.54,84.54,Apartment,Suburban,High,No,No,
+308858.93,175.11,3,2,83,13.41,653.68,2159.85,7.49,8.05,54.14,Apartment,Rural,Moderate,No,No,Gas
+918911.07,446.9,6,4,24,13.98,1518.15,6766.97,6.3,6.99,96.62,Townhouse,Inner City,,No,No,
+674283.06,237.24,5,3,86,6.6,551.52,4786.45,9.77,9.18,87.58,Townhouse,Rural,Moderate,No,Yes,Gas
+270657.77,62.6,4,2,67,6.4,164.22,1681.46,8.54,3.24,70.37,Apartment,Rural,,No,Yes,Gas
+578416.4,277.73,5,4,71,2.94,382.14,1168.12,6.2,1.8,73.16,Townhouse,Rural,High,Yes,No,Electric
+630657.2,440.4,5,3,65,14.08,1160.85,9706.77,2.43,4.34,31.36,Townhouse,Rural,High,No,No,
+436314.54,121.75,2,2,34,23.32,285.95,4950.9,2.4,3.7,11.84,Detached House,Suburban,High,Yes,No,Solar
+777218.68,193.74,3,3,6,12.51,589.03,8645.16,5.02,1.08,80.56,Detached House,Inner City,Moderate,No,No,
+910218.49,438.88,6,4,49,47.69,485.49,3349.16,2.29,7.54,37.25,Townhouse,Inner City,High,Yes,Yes,Gas
+614351.31,106.47,4,4,44,14.69,150.16,4671.15,4.93,3.38,13.49,Townhouse,Suburban,High,Yes,No,Gas
+695186.86,472.55,6,4,69,31.86,1177.12,7211.7,8.2,3.21,57.15,Detached House,Suburban,High,Yes,No,Gas
+413578.92,439.34,5,4,83,40.26,1578.53,7438.99,8.04,5.63,43.47,Apartment,Rural,Moderate,No,No,Solar
+545834.43,186.62,5,4,82,18.21,351.16,5759.06,2.38,1.7,57.73,Townhouse,Rural,,Yes,Yes,Gas
+365206.12,223.79,4,3,48,41.18,743.1,7434.54,5.83,3.18,68.39,Apartment,Inner City,,Yes,Yes,
+407383.05,296.81,3,2,9,42.21,511.94,6798.91,7.4,1.64,34.32,Townhouse,Inner City,Moderate,No,No,Solar
+322742.16,225.84,3,4,22,31.28,244.13,1188.68,4.88,5.27,56.73,Apartment,Suburban,,No,No,
+831189.07,417.77,6,3,34,14.7,942.51,2281.46,3.22,5.29,94.68,Townhouse,Inner City,High,No,No,Solar
+166263.57,135.76,3,3,73,44.57,331.82,1496.07,6.68,7.52,38.89,Townhouse,Suburban,Moderate,Yes,No,Gas
+504638.39,222.73,3,4,3,46.87,878.81,2585.43,9.8,0.97,51.3,Townhouse,Inner City,High,Yes,No,Gas
+667896.76,275.59,6,4,15,20.39,459.04,2506.51,2.96,6.87,55.49,Apartment,Suburban,High,Yes,No,Gas
+270078.39,177.79,2,1,30,27.9,505.55,3684.73,6.57,6.71,64.27,Townhouse,Rural,,Yes,No,Solar
+971020.58,322.13,5,3,33,11.08,1077.2,7409.98,6.04,1.18,71.42,Detached House,Inner City,,No,Yes,
+830398.86,430.41,5,3,66,2.65,1606.37,5664.88,2.53,5.82,70.42,Townhouse,Rural,,Yes,No,
+533641.21,252.79,5,4,41,47.23,510.1,2730.68,7.6,0.01,85.3,Townhouse,Inner City,Moderate,No,Yes,
+816277.67,491.21,6,3,49,7.4,761.09,6813.3,5.17,8.29,37.05,Townhouse,Rural,Moderate,No,Yes,Electric
+684247.48,251.92,4,2,87,35.25,597.96,9708.18,2.28,9.58,16.27,Detached House,Suburban,Moderate,No,Yes,Gas
+1263365.19,479.48,6,4,8,20.08,1702.33,4024.49,8.46,7.59,10.5,Detached House,Inner City,High,Yes,Yes,Gas
+629309.04,327.91,6,4,56,40.96,1190.51,5534.15,2.85,7.4,87.65,Townhouse,Inner City,Moderate,No,No,Solar
+264867.16,223.5,5,3,85,45.0,467.91,9218.14,7.13,6.21,98.28,Apartment,Rural,High,Yes,No,Solar
+398810.78,278.28,4,2,20,45.97,774.03,1841.94,7.55,0.17,25.65,Townhouse,Inner City,High,No,No,
+920628.84,468.3,6,3,43,7.72,1439.27,2231.84,2.39,1.94,3.8,Apartment,Inner City,Moderate,Yes,No,Electric
+671504.54,106.28,3,3,53,9.77,115.44,7958.64,6.04,5.11,74.42,Townhouse,Suburban,Moderate,Yes,Yes,
+635958.36,452.71,5,3,94,42.68,745.51,3081.85,7.79,7.01,88.19,Apartment,Inner City,,Yes,Yes,Solar
+100000.0,200.22,3,2,6,23.24,381.09,1776.41,3.03,0.64,78.23,Apartment,Rural,High,Yes,No,
+450816.14,402.55,5,3,22,23.77,1097.65,3228.52,9.49,5.03,50.22,Apartment,Rural,High,Yes,Yes,
+672226.5,411.05,6,4,40,9.85,579.52,8771.63,9.47,3.18,11.89,Apartment,Suburban,,No,Yes,Solar
+769113.21,325.66,6,4,91,10.8,856.66,6623.04,4.56,6.45,94.39,Detached House,Rural,,Yes,Yes,Solar
+617903.48,236.73,6,4,14,28.34,857.74,3462.54,5.07,5.35,71.51,Detached House,Rural,High,No,Yes,
+460662.01,312.19,4,4,44,26.95,470.75,2364.25,8.23,0.54,38.51,Townhouse,Suburban,Moderate,Yes,No,Gas
+100000.0,170.82,3,2,91,35.45,535.76,9682.96,5.59,1.9,5.1,Apartment,Rural,High,Yes,No,Solar
+522742.25,194.79,6,3,73,11.0,654.34,9601.42,2.87,4.68,72.82,Apartment,Suburban,High,No,No,Gas
+682546.57,294.61,3,3,49,27.27,568.33,9945.17,7.03,9.04,75.1,Townhouse,Inner City,High,No,Yes,
+741749.54,289.32,3,4,62,36.3,772.34,4015.5,8.06,6.69,47.8,Detached House,Inner City,Moderate,No,Yes,Solar
+242245.15,157.97,2,1,66,35.76,377.59,1250.64,9.23,5.7,24.63,Townhouse,Suburban,,Yes,Yes,
+547333.27,372.64,4,2,34,12.71,971.72,9477.21,3.47,3.59,19.74,Apartment,Suburban,,No,Yes,Electric
+613467.65,472.36,5,3,86,20.84,1220.4,8335.75,4.91,6.03,98.03,Apartment,Suburban,High,Yes,No,Electric
+595091.24,223.64,3,4,87,26.4,537.63,8404.91,5.63,0.0,51.7,Detached House,Inner City,,No,No,Gas
+559774.87,336.71,6,4,72,40.18,1006.02,4598.52,8.17,0.94,36.62,Apartment,Inner City,High,Yes,Yes,
+583309.82,145.78,3,4,9,5.43,426.15,2815.76,4.82,8.29,50.02,Townhouse,Rural,Moderate,Yes,No,
+1047906.46,445.79,6,4,77,10.7,1300.76,9886.3,5.31,6.2,76.05,Detached House,Inner City,High,Yes,No,Electric
+594914.13,393.87,5,4,24,5.25,860.66,4631.69,9.09,7.2,71.56,Apartment,Rural,Moderate,No,No,Gas
+862168.66,269.01,6,3,59,12.21,691.21,6182.56,6.36,1.79,5.67,Townhouse,Inner City,Moderate,No,Yes,Electric
+714585.71,389.74,6,4,87,30.33,1113.49,1692.6,9.78,7.31,94.01,Apartment,Inner City,Moderate,Yes,No,
+778511.1,338.5,4,3,84,3.38,418.75,8837.72,4.31,0.28,43.36,Townhouse,Inner City,Moderate,No,Yes,Solar
+554934.59,124.23,2,3,48,22.28,245.64,3780.39,2.69,4.2,24.53,Townhouse,Inner City,High,No,No,Gas
+901795.96,433.45,6,3,64,5.86,513.19,8184.89,9.61,3.82,29.1,Apartment,Inner City,High,Yes,Yes,Electric
+946345.41,317.05,4,3,10,1.2,752.17,8513.89,5.92,0.15,25.5,Detached House,Inner City,High,No,No,Gas
+811810.39,293.5,4,3,2,7.58,1152.92,2085.66,4.66,4.68,28.58,Apartment,Inner City,Moderate,Yes,No,Gas
+626353.56,101.3,2,1,59,3.59,197.28,1561.03,2.33,5.52,36.84,Townhouse,Inner City,Moderate,No,Yes,Solar
+978622.46,333.49,6,4,45,20.81,1246.14,8636.05,6.52,4.97,57.15,Apartment,Inner City,,Yes,Yes,Solar
+168105.36,86.29,2,1,45,15.88,123.87,9641.98,4.13,7.55,57.14,Apartment,Rural,,No,Yes,Electric
+149834.24,76.27,2,1,62,12.8,116.86,9501.85,4.19,3.83,79.69,Apartment,Rural,Moderate,Yes,No,
+591946.95,458.4,6,3,63,48.08,1795.19,3580.81,3.24,9.14,90.35,Detached House,Rural,High,No,No,
+345274.33,351.56,5,3,89,35.71,938.99,2242.19,3.08,0.25,56.21,Townhouse,Suburban,Moderate,No,No,Gas
+495594.39,163.89,3,3,46,35.09,559.08,6718.89,7.18,4.75,12.77,Detached House,Suburban,High,No,Yes,Electric
+731244.22,486.53,6,3,41,25.15,1224.15,4268.53,6.13,1.99,73.45,Apartment,Inner City,High,No,Yes,Gas
+740764.94,205.64,4,3,71,10.25,371.34,7492.65,6.86,3.12,97.12,Apartment,Inner City,High,Yes,Yes,Electric
+1088208.26,460.11,6,4,22,7.1,1177.24,2005.72,4.68,8.91,87.54,Townhouse,Inner City,High,No,Yes,Solar
+665742.26,86.09,4,3,97,4.7,179.65,5895.57,4.81,7.02,48.6,Apartment,Suburban,Moderate,No,Yes,Gas
+295898.46,72.96,1,1,11,32.71,108.24,2885.93,3.43,1.91,76.22,Townhouse,Inner City,High,Yes,No,
+1008405.89,182.89,4,3,8,15.89,342.23,5276.35,2.96,8.74,74.34,Detached House,Inner City,Moderate,Yes,No,Solar
+166327.49,156.71,2,2,1,49.88,533.72,7464.59,5.4,6.84,96.07,Apartment,Suburban,Moderate,No,Yes,Electric
+845572.41,420.96,6,4,86,33.03,952.49,8632.39,5.63,4.35,78.39,Detached House,Inner City,,No,Yes,Solar
+401681.4,130.87,3,3,93,16.07,169.75,8329.15,4.65,7.88,27.92,Apartment,Suburban,High,Yes,No,Gas
+649934.88,215.25,6,4,57,22.67,459.29,2194.95,6.65,4.0,70.01,Detached House,Rural,Moderate,Yes,No,Gas
+516922.95,54.1,2,1,36,12.42,183.14,5613.82,9.46,8.9,79.92,Detached House,Suburban,,No,Yes,
+299739.15,145.47,3,3,29,49.09,289.15,5537.94,3.13,4.6,45.99,Detached House,Suburban,High,No,Yes,
+823640.76,471.56,6,3,97,7.41,743.27,8515.81,6.69,2.1,41.56,Townhouse,Inner City,,No,No,Solar
+701186.13,346.63,5,4,65,29.46,856.27,5650.36,5.69,3.52,25.78,Detached House,Suburban,Moderate,Yes,No,Gas
+703247.13,168.99,3,2,45,12.37,174.2,2136.92,6.89,0.28,83.94,Detached House,Inner City,Moderate,No,Yes,Solar
+368761.96,476.86,5,4,98,49.41,1063.94,4979.77,8.86,3.11,7.88,Apartment,Rural,High,Yes,Yes,Electric
+534705.62,114.23,5,4,35,37.0,391.48,9888.92,8.14,2.68,30.44,Townhouse,Inner City,High,Yes,Yes,
+927254.55,359.98,6,3,71,33.05,1224.9,5700.12,6.63,3.47,0.15,Detached House,Inner City,Moderate,No,Yes,Electric
+739651.58,452.03,5,3,71,17.27,586.61,2010.0,8.36,4.74,19.74,Apartment,Inner City,Moderate,No,No,Electric
+465463.36,132.08,3,4,10,16.64,178.63,8622.1,4.79,3.56,68.2,Townhouse,Suburban,Moderate,No,No,
+672042.6,354.74,4,3,9,10.87,491.04,2436.08,9.3,4.7,93.92,Townhouse,Suburban,,No,No,Electric
+344512.32,321.84,6,3,61,36.53,1060.49,1364.24,4.27,4.18,32.57,Apartment,Rural,Moderate,Yes,No,
+323568.23,304.97,4,4,56,24.82,983.25,8103.73,7.8,8.85,26.71,Apartment,Rural,High,No,No,Gas
+100534.06,256.88,3,2,17,48.88,701.09,2347.77,9.9,5.98,63.79,Apartment,Rural,,No,Yes,Gas
+460119.56,226.25,4,2,27,38.24,455.0,1394.35,9.45,1.79,43.0,Townhouse,Inner City,Moderate,No,Yes,Gas
+167980.12,79.33,1,2,81,33.91,149.71,8052.28,4.43,6.94,69.54,Townhouse,Rural,High,No,No,
+427512.44,359.94,4,2,14,38.89,438.96,1542.65,3.12,8.59,25.35,Apartment,Rural,Moderate,No,Yes,Electric
+625916.83,258.34,4,3,45,31.52,638.04,4385.9,2.77,9.21,19.91,Apartment,Inner City,,No,Yes,Electric
+725654.64,459.43,6,3,34,10.16,1647.23,8776.12,3.38,1.05,81.3,Detached House,Rural,High,No,No,Electric
+438520.65,80.78,2,1,11,28.09,99.09,1515.49,7.44,9.47,24.9,Detached House,Suburban,High,No,No,
+986687.21,192.55,5,4,1,5.95,552.24,9688.81,8.17,5.55,22.42,Townhouse,Inner City,High,No,Yes,
+468143.78,78.72,2,3,21,8.87,221.08,4355.72,5.91,6.99,79.09,Detached House,Rural,Moderate,Yes,No,Electric
+552914.07,80.25,2,4,25,31.15,318.69,6443.95,4.94,9.51,73.21,Apartment,Inner City,High,No,Yes,Gas
+764883.44,383.13,6,3,49,17.2,1048.98,8577.65,6.41,5.91,61.97,Apartment,Suburban,Moderate,No,Yes,Solar
+484607.38,101.66,2,3,14,39.68,252.8,8929.76,4.88,9.71,68.96,Detached House,Suburban,High,No,Yes,Solar
+641825.57,119.57,4,4,41,17.22,389.22,4963.92,8.28,3.56,83.84,Detached House,Suburban,,Yes,No,
+357176.97,203.83,3,4,90,27.21,735.74,6685.19,7.5,0.79,87.34,Townhouse,Suburban,High,No,No,
+782188.15,312.2,5,3,37,21.72,799.76,3261.77,8.76,9.04,88.97,Apartment,Inner City,Moderate,Yes,Yes,Electric
+122421.75,127.23,3,3,44,42.62,491.03,9187.22,5.91,2.35,6.24,Apartment,Suburban,Moderate,No,No,Electric
+464874.39,489.8,5,4,86,39.21,1022.11,7885.03,2.93,3.59,89.5,Townhouse,Suburban,High,No,No,Gas
+929328.48,411.26,6,3,47,34.67,1606.8,2258.23,7.25,8.69,89.6,Townhouse,Inner City,,Yes,Yes,Solar
+712170.0,350.63,5,3,98,20.23,471.06,6805.99,5.06,7.01,99.31,Detached House,Rural,,No,Yes,
+305856.97,175.15,3,3,14,31.48,302.43,3516.83,2.78,4.42,58.36,Townhouse,Rural,High,Yes,No,Gas
+480427.69,401.79,6,4,13,39.77,1466.28,3387.49,3.31,0.76,62.09,Detached House,Rural,Moderate,No,Yes,Gas
+291166.27,88.94,2,1,77,23.81,337.34,6351.95,9.32,3.99,97.28,Townhouse,Suburban,High,Yes,No,Solar
+523275.62,390.01,4,4,38,24.49,1088.49,9372.73,8.99,1.93,5.09,Townhouse,Rural,Moderate,No,No,
+774831.3,196.92,2,2,90,7.8,526.5,9316.15,5.99,9.17,49.76,Townhouse,Inner City,High,Yes,Yes,Gas
+653808.31,170.6,3,3,84,9.59,679.13,7333.74,4.29,5.89,72.16,Apartment,Inner City,Moderate,Yes,Yes,Electric
+100000.0,167.0,2,2,64,49.9,257.97,9865.22,9.31,6.7,89.88,Apartment,Suburban,High,Yes,No,Gas
+327077.39,173.24,4,3,9,43.8,349.37,4870.21,7.85,9.01,57.09,Townhouse,Rural,High,No,No,Electric
+216078.08,187.14,2,3,97,11.49,729.3,4178.61,8.03,2.13,31.81,Townhouse,Rural,High,No,No,Electric
+549054.81,432.19,5,3,16,27.03,1718.24,7336.56,5.09,4.83,91.92,Townhouse,Rural,Moderate,No,No,Electric
+734065.54,320.67,6,4,94,29.19,785.66,4682.48,2.97,1.04,67.04,Townhouse,Inner City,,Yes,No,Solar
+205412.45,136.02,2,2,48,43.11,542.13,5882.15,8.53,2.49,20.66,Townhouse,Suburban,,No,Yes,Gas
+775218.57,201.83,4,3,1,30.45,563.57,4904.56,2.42,8.68,31.46,Townhouse,Suburban,,Yes,Yes,
+881388.53,347.14,5,4,17,4.69,923.6,6540.38,5.8,6.25,85.1,Detached House,Rural,High,Yes,No,
+332356.14,126.72,2,1,86,34.64,288.79,3254.01,3.7,8.78,20.18,Detached House,Rural,Moderate,Yes,No,Electric
+741802.54,360.16,6,4,22,34.67,1093.87,1754.66,2.64,3.05,68.15,Detached House,Inner City,,No,No,Solar
+718010.93,363.12,5,4,38,8.22,404.35,8584.52,9.89,6.93,75.14,Apartment,Inner City,,No,No,Gas
+669354.74,279.75,3,3,51,15.51,707.53,4498.98,7.95,1.63,52.09,Detached House,Inner City,High,No,No,
+761134.23,68.25,2,1,69,0.15,156.87,9302.55,4.89,7.07,74.74,Detached House,Inner City,High,No,Yes,Solar
+703461.01,325.3,4,3,32,29.75,1284.98,1139.67,5.92,7.7,73.51,Townhouse,Inner City,,No,No,
+114863.83,189.24,2,2,20,46.88,522.14,5843.13,6.78,7.61,35.33,Apartment,Rural,High,Yes,No,Electric
+345158.32,272.13,4,4,12,29.3,429.47,5851.13,9.46,1.04,37.97,Apartment,Rural,High,No,Yes,Solar
+715535.01,400.12,6,4,25,9.22,1342.79,8613.14,4.92,1.77,49.18,Townhouse,Rural,Moderate,No,No,Gas
+166448.76,360.52,4,2,20,31.76,952.11,4103.75,7.17,0.85,32.37,Apartment,Rural,,Yes,No,Solar
+741603.31,361.38,5,4,9,22.79,646.66,5593.52,5.19,4.72,22.46,Townhouse,Suburban,,No,Yes,
+532961.96,406.66,6,4,95,36.42,1536.33,5156.36,7.5,7.08,76.51,Townhouse,Rural,,Yes,No,Gas
+524410.4,333.51,5,4,52,34.61,1177.74,6901.12,4.16,3.97,63.91,Detached House,Rural,,Yes,No,Electric
+638726.86,478.74,5,4,23,32.37,701.94,1665.93,9.69,9.18,79.45,Townhouse,Suburban,Moderate,No,No,Electric
+722374.89,258.67,4,4,63,10.65,714.87,6450.49,8.14,3.09,8.81,Detached House,Suburban,Moderate,No,No,
+510102.3,391.25,5,4,82,43.16,1401.47,2647.98,6.75,5.75,90.25,Detached House,Rural,,No,No,Gas
+629928.21,165.06,4,2,85,22.44,578.48,4054.09,3.7,2.48,27.99,Apartment,Inner City,Moderate,Yes,Yes,Gas
+413247.22,303.12,5,4,3,45.8,445.28,4031.18,9.45,3.21,63.35,Townhouse,Rural,Moderate,Yes,Yes,Gas
+504195.51,105.28,4,2,97,15.95,218.45,9725.31,6.13,5.54,55.71,Detached House,Rural,Moderate,No,No,Electric
+746632.29,349.87,5,3,84,44.31,440.52,8409.75,7.02,9.82,70.06,Detached House,Suburban,,Yes,Yes,
+480791.34,478.01,5,3,64,30.85,1797.66,3202.22,7.28,4.31,66.99,Townhouse,Rural,,No,No,
+682303.41,347.29,5,3,60,0.6,1173.09,7639.4,5.15,9.63,88.0,Apartment,Rural,High,Yes,No,Electric
+499204.59,152.09,3,2,50,20.74,526.13,3178.69,4.67,0.87,2.1,Townhouse,Suburban,High,Yes,Yes,
+566246.95,434.5,6,4,49,25.7,1345.17,5508.02,5.74,2.0,19.97,Townhouse,Rural,,Yes,No,Electric
+856253.77,379.85,6,4,88,33.92,672.91,1024.75,9.39,9.87,89.71,Townhouse,Inner City,,No,Yes,Gas
+254815.92,53.14,2,1,53,42.66,81.45,8762.04,2.26,6.26,88.2,Townhouse,Inner City,,No,No,Electric
+215954.52,81.74,1,1,12,36.97,324.29,5398.57,2.88,1.04,6.37,Detached House,Rural,,No,Yes,
+267378.41,118.22,3,2,66,46.88,219.34,5930.54,3.38,7.57,45.96,Detached House,Rural,,Yes,No,Electric
+481819.69,404.43,6,3,68,43.77,902.11,8926.83,4.5,2.31,70.34,Townhouse,Suburban,,Yes,No,Solar
+487825.56,195.82,3,4,90,34.43,638.03,8470.01,7.75,6.18,58.03,Detached House,Suburban,Moderate,No,No,
+643598.59,324.52,4,2,78,42.86,1226.61,9900.91,5.64,5.12,55.91,Detached House,Inner City,,No,No,
+234127.26,221.85,4,3,17,48.24,259.75,3403.03,3.56,4.62,29.03,Detached House,Rural,High,No,No,Electric
+912654.22,385.11,4,3,30,2.33,835.01,3831.13,6.67,2.16,66.43,Townhouse,Inner City,,No,No,
+220335.72,279.83,3,3,72,42.41,755.21,5940.29,5.07,3.75,76.59,Apartment,Suburban,High,Yes,Yes,
+494457.13,375.64,5,4,59,8.03,978.48,1357.9,7.51,3.58,98.36,Apartment,Rural,Moderate,No,No,Solar
+376765.51,384.09,6,4,53,49.46,1394.15,1059.85,5.38,0.65,32.5,Apartment,Suburban,,Yes,No,Gas
+135383.76,176.75,2,1,52,24.51,329.42,5106.85,5.56,0.97,11.6,Apartment,Suburban,High,Yes,No,Electric
+368273.36,395.28,5,4,86,42.44,494.88,7612.52,6.77,2.46,62.02,Apartment,Suburban,High,No,Yes,
+594264.77,357.34,5,3,53,23.42,1411.0,7016.06,8.0,7.47,73.72,Apartment,Suburban,,Yes,No,
+540075.33,92.58,4,2,60,21.79,337.97,7609.75,2.56,5.75,51.51,Detached House,Suburban,,No,No,
+475197.6,102.87,3,4,26,33.01,203.47,1115.51,6.33,8.89,96.99,Townhouse,Suburban,,Yes,Yes,Electric
+547300.76,204.86,3,2,17,11.49,707.86,1679.17,4.85,8.53,56.39,Townhouse,Rural,,Yes,No,
+1032322.74,393.59,5,4,41,16.79,1323.79,2746.92,5.83,9.79,40.9,Detached House,Suburban,Moderate,No,Yes,Gas
+892113.49,434.88,6,3,20,15.14,1000.19,9923.92,5.08,2.02,25.17,Apartment,Inner City,,Yes,Yes,
+668650.23,299.11,4,3,58,37.87,1168.53,8193.24,3.75,4.99,88.99,Townhouse,Inner City,Moderate,Yes,Yes,Electric
+608704.62,405.14,6,4,26,43.12,696.49,4485.41,7.92,7.3,54.42,Detached House,Rural,,No,Yes,Solar
+570480.0,465.12,5,3,33,40.03,1533.05,7848.54,4.5,5.61,85.82,Detached House,Rural,High,Yes,Yes,Electric
+217219.68,271.71,3,2,21,45.54,827.24,1215.1,4.06,3.92,46.2,Apartment,Rural,,Yes,No,Solar
+797016.17,282.31,5,4,11,37.74,535.59,6355.04,8.38,8.03,14.05,Detached House,Inner City,Moderate,Yes,No,Solar
+679709.33,56.52,1,2,33,1.83,78.67,9312.82,4.87,6.79,66.03,Townhouse,Inner City,Moderate,No,Yes,Electric
+251360.23,215.39,4,4,68,24.95,644.14,8638.5,3.23,1.13,89.73,Apartment,Rural,,No,No,Gas
+669144.77,307.1,4,3,44,16.87,514.16,3339.26,7.36,8.83,54.53,Apartment,Suburban,Moderate,No,Yes,
+517665.25,179.77,4,2,14,37.13,535.3,1626.84,7.13,9.68,34.99,Townhouse,Inner City,,No,No,Electric
+587077.22,395.55,4,4,31,33.03,877.54,9333.67,8.82,8.38,5.11,Detached House,Rural,,Yes,No,
+780827.52,431.59,6,3,90,38.84,814.5,4186.16,7.28,3.04,60.93,Townhouse,Inner City,,Yes,No,Solar
+904681.28,450.15,6,4,87,14.29,1435.52,2123.46,3.41,8.99,40.41,Apartment,Suburban,Moderate,Yes,Yes,
+583244.74,234.86,4,3,95,3.85,649.38,6854.2,2.0,4.84,47.05,Detached House,Rural,High,Yes,No,Electric
+553889.72,256.87,6,4,38,16.28,864.44,9177.68,6.71,2.84,57.97,Townhouse,Rural,,Yes,Yes,Gas
+611135.55,99.07,2,4,37,11.49,330.5,2878.91,4.46,7.92,79.98,Detached House,Rural,High,No,Yes,Solar
+712399.94,334.21,4,4,57,17.84,1080.34,8315.85,3.0,7.25,41.95,Townhouse,Rural,Moderate,Yes,Yes,Gas
+531779.58,150.87,4,4,55,39.62,521.85,7502.86,5.1,2.56,94.1,Townhouse,Inner City,Moderate,No,Yes,Solar
+688180.91,257.53,6,3,38,6.97,1017.72,5431.36,3.72,0.61,36.15,Townhouse,Rural,,No,No,Electric
+1275949.21,437.52,6,4,20,23.22,1448.12,4286.6,2.46,6.84,41.37,Detached House,Inner City,High,Yes,Yes,Gas
+852833.12,454.5,6,4,88,25.33,1623.24,8133.25,5.66,4.16,89.6,Detached House,Suburban,,Yes,No,Solar
+410134.68,116.18,3,2,75,22.93,217.08,3971.54,6.55,5.59,40.66,Detached House,Rural,,No,Yes,Gas
+759746.47,172.94,4,2,72,9.24,460.29,6257.78,5.68,8.13,87.56,Townhouse,Inner City,High,Yes,No,Electric
+499882.11,326.41,6,3,85,44.68,348.55,2161.88,4.23,6.91,45.4,Apartment,Suburban,,No,Yes,
+380398.39,55.89,5,4,29,45.4,154.82,4496.53,2.16,7.2,60.07,Townhouse,Rural,,No,Yes,
+796457.92,197.25,3,3,3,0.36,382.86,8474.37,2.68,2.58,40.08,Detached House,Suburban,Moderate,No,No,Electric
+670894.6,476.73,6,3,52,31.5,586.03,4179.36,2.06,5.84,14.01,Townhouse,Suburban,Moderate,No,Yes,Gas
+647921.37,236.02,3,4,29,39.8,784.39,1480.44,5.82,5.24,64.26,Detached House,Inner City,,Yes,No,Electric
+477249.44,214.9,4,3,36,10.36,390.75,2423.39,2.28,1.54,9.11,Townhouse,Rural,,No,Yes,Gas
+145773.55,74.39,1,1,69,44.85,196.88,3720.71,3.49,6.75,6.44,Apartment,Inner City,,No,No,Electric
+442800.68,138.42,2,1,2,20.06,293.78,5858.85,2.16,2.49,57.97,Detached House,Rural,Moderate,Yes,Yes,Electric
+403118.22,288.42,4,2,94,48.25,563.61,1524.07,7.22,2.58,54.6,Apartment,Inner City,High,No,Yes,Electric
+507527.47,403.38,6,3,14,24.18,832.17,1542.43,7.93,0.33,77.33,Detached House,Rural,Moderate,No,No,
+586954.8,185.39,5,3,76,47.23,409.6,8819.27,3.2,6.69,42.05,Detached House,Inner City,High,No,No,
+369125.24,163.83,5,4,40,47.96,334.81,7850.99,5.26,8.49,56.25,Townhouse,Suburban,Moderate,No,No,Electric
+791241.95,263.36,6,4,80,10.28,701.66,3763.45,4.29,2.97,91.8,Apartment,Inner City,,Yes,No,Gas
+643326.01,356.6,5,3,23,13.23,1163.9,6745.21,4.18,2.59,61.39,Apartment,Suburban,,No,Yes,Gas
+954726.01,434.06,5,4,89,14.25,1609.35,5837.06,7.21,9.94,26.54,Townhouse,Inner City,,No,No,Electric
+340457.11,80.96,3,3,23,2.66,152.68,4163.31,3.62,4.68,10.49,Apartment,Rural,,No,Yes,Solar
+360592.92,68.33,5,3,38,39.66,177.18,8763.27,5.86,0.0,25.58,Townhouse,Suburban,,Yes,Yes,Solar
+415590.23,453.69,5,3,6,39.03,1622.06,1018.62,5.95,2.06,24.18,Apartment,Suburban,High,No,No,Solar
+593381.12,481.29,5,4,93,10.28,1276.85,4516.12,7.55,0.45,19.46,Apartment,Suburban,Moderate,No,No,Electric
+782191.56,444.03,6,4,39,24.88,1468.99,1690.98,4.72,3.05,84.21,Townhouse,Inner City,High,No,Yes,Solar
+751640.98,476.97,6,3,20,17.86,1328.52,3763.89,8.87,9.26,48.38,Apartment,Rural,,Yes,No,Gas
+170579.57,178.41,2,1,48,34.71,202.08,6363.46,9.13,4.68,43.01,Townhouse,Rural,Moderate,Yes,No,Electric
+697427.4,208.95,3,4,10,9.45,421.52,5916.76,4.28,5.91,89.7,Detached House,Suburban,,Yes,No,Solar
+938180.54,426.47,6,3,89,9.17,1296.08,6218.12,9.88,4.29,64.15,Detached House,Suburban,High,No,Yes,Electric
+531805.37,245.29,3,2,12,26.46,877.62,6951.37,7.09,2.56,85.81,Detached House,Suburban,High,No,Yes,Electric
+589982.74,89.35,1,4,29,5.3,98.32,4013.66,7.57,4.06,90.09,Townhouse,Suburban,Moderate,Yes,Yes,Solar
+662409.66,269.23,4,4,46,8.7,576.63,3974.04,5.22,6.99,24.89,Townhouse,Suburban,High,No,No,Electric
+732609.03,357.6,5,4,89,1.91,621.57,3616.59,5.97,3.73,44.43,Townhouse,Suburban,,No,No,Gas
+587280.51,363.24,5,4,89,14.66,597.0,8352.63,2.71,0.12,23.78,Detached House,Rural,,No,No,Solar
+460707.7,151.91,2,1,24,33.16,196.73,3471.91,7.3,9.0,37.04,Townhouse,Rural,High,Yes,Yes,Gas
+919815.23,453.94,6,3,91,8.46,1443.66,2123.65,3.8,7.95,31.38,Apartment,Inner City,High,No,No,Gas
+616938.15,419.92,6,4,78,40.37,1056.63,1915.5,8.69,8.49,49.92,Townhouse,Rural,Moderate,Yes,Yes,Solar
+341282.37,115.03,2,1,28,34.41,218.48,5862.57,5.77,5.5,21.83,Detached House,Rural,High,Yes,Yes,Solar
+287083.59,241.14,5,4,71,47.87,803.95,5220.07,6.83,1.44,85.64,Detached House,Rural,Moderate,Yes,No,
+718958.11,379.52,6,4,46,22.68,906.99,3462.42,8.44,3.32,79.97,Townhouse,Suburban,,Yes,No,Gas
+868518.86,188.84,3,3,76,6.43,397.63,3498.23,3.17,7.59,10.4,Apartment,Inner City,Moderate,No,Yes,
+437955.65,142.8,2,2,57,30.15,464.1,1054.78,6.99,4.89,55.43,Townhouse,Suburban,High,Yes,Yes,Electric
+899569.94,400.87,6,3,39,2.15,442.58,1565.39,6.98,1.16,19.12,Detached House,Suburban,High,Yes,Yes,Electric
+507016.56,190.79,2,1,97,20.73,398.93,1113.8,3.16,4.34,66.86,Detached House,Inner City,Moderate,No,No,Solar
+688760.19,264.31,3,4,64,32.39,970.99,4735.01,2.95,9.47,47.31,Detached House,Suburban,,Yes,Yes,Gas
+410816.03,258.67,3,2,74,43.79,992.14,4901.7,2.34,3.21,78.49,Detached House,Suburban,,No,Yes,
+1036842.74,149.29,4,3,90,3.44,375.19,2903.04,5.31,6.0,25.03,Detached House,Inner City,Moderate,Yes,Yes,Gas
+584997.82,329.42,4,2,51,0.52,884.52,6537.56,7.46,1.14,74.52,Apartment,Suburban,,No,Yes,Electric
+777988.79,465.38,6,3,21,35.97,1628.0,9878.67,4.6,0.48,20.72,Detached House,Suburban,High,Yes,Yes,Electric
+670344.37,209.24,3,3,35,6.89,476.66,3116.53,3.31,3.72,94.86,Detached House,Suburban,Moderate,Yes,Yes,Electric
+807353.43,472.89,5,4,40,6.2,1026.22,3530.64,8.94,2.0,75.22,Townhouse,Suburban,Moderate,Yes,No,Gas
+100000.0,146.93,2,2,90,48.29,411.72,8485.85,9.23,8.01,57.65,Apartment,Suburban,Moderate,No,No,
+661762.88,451.27,5,3,79,24.85,678.61,1369.71,7.45,4.57,36.64,Apartment,Inner City,,No,No,Gas
+448497.31,119.63,3,2,98,21.84,327.58,9129.02,7.34,4.01,16.78,Apartment,Inner City,Moderate,No,Yes,Gas
+499358.3,95.55,1,2,74,6.19,245.79,9838.16,4.15,6.66,56.71,Townhouse,Suburban,High,Yes,Yes,
+680932.03,51.95,1,1,4,2.01,201.91,5595.23,3.25,4.13,73.45,Detached House,Inner City,High,Yes,No,Gas
+394773.35,142.8,6,3,33,30.67,409.37,5803.22,7.95,8.37,62.38,Apartment,Suburban,,Yes,No,Solar
+721294.21,234.1,6,3,22,32.5,719.46,8990.22,4.45,1.9,53.29,Detached House,Suburban,Moderate,No,Yes,Electric
+410976.3,298.39,4,4,9,49.48,949.46,4154.94,6.82,1.65,26.57,Detached House,Suburban,,No,No,Electric
+545093.33,227.82,4,3,72,20.65,660.06,3515.9,5.71,6.84,13.77,Townhouse,Rural,Moderate,No,Yes,Electric
+919318.21,440.17,6,4,94,34.45,1591.83,1080.31,8.69,9.89,57.17,Detached House,Suburban,,Yes,No,Gas
+475282.2,338.9,4,2,42,20.67,450.25,8445.21,8.94,3.36,35.54,Detached House,Rural,High,Yes,No,
+776801.31,295.3,6,3,36,41.44,1101.15,4420.88,9.03,7.44,35.07,Townhouse,Inner City,High,Yes,No,Gas
+822425.97,295.72,5,4,86,30.7,1093.78,1086.48,2.2,9.7,55.86,Apartment,Inner City,,No,Yes,
+639747.12,125.23,2,3,75,9.6,136.52,8304.64,5.23,2.79,61.92,Detached House,Inner City,,No,Yes,
+883702.11,399.01,6,4,41,11.02,559.5,7824.64,9.09,0.36,53.51,Townhouse,Inner City,,Yes,Yes,Solar
+637753.44,82.44,1,3,4,10.09,162.94,2997.58,7.37,3.8,93.42,Townhouse,Inner City,,Yes,Yes,Solar
+665907.29,470.82,6,4,86,17.74,600.95,8698.52,2.64,1.86,83.25,Apartment,Inner City,High,Yes,No,Gas
+567611.05,181.94,3,2,45,17.43,519.15,6641.29,8.94,6.97,15.94,Townhouse,Rural,Moderate,Yes,No,Gas
+493721.8,51.76,1,2,68,21.59,100.9,3919.48,7.44,4.54,19.12,Detached House,Inner City,High,Yes,No,Electric
+428444.84,347.59,4,3,26,17.29,397.18,7553.8,8.57,8.95,87.03,Apartment,Rural,Moderate,No,No,Gas
+671160.58,160.55,4,4,78,1.35,295.5,8698.49,7.25,7.41,83.18,Townhouse,Suburban,Moderate,Yes,No,
+907629.95,396.79,5,4,16,14.41,1056.24,4783.88,5.13,6.07,55.34,Townhouse,Inner City,High,No,Yes,Electric
+711998.37,200.68,4,4,8,28.98,242.65,1436.41,8.66,8.97,66.78,Detached House,Inner City,,No,No,Electric
+283491.03,344.83,5,4,52,45.38,997.16,5125.48,9.8,0.47,21.81,Apartment,Rural,High,No,Yes,Gas
+628364.04,200.74,4,3,39,20.95,546.18,2373.49,2.01,1.76,8.21,Detached House,Suburban,,Yes,No,Solar
+541416.56,275.28,5,3,7,22.24,318.27,3918.54,2.26,9.24,54.5,Apartment,Suburban,Moderate,Yes,No,Gas
+838295.01,301.53,5,4,77,9.24,745.65,6800.74,4.92,8.31,18.68,Detached House,Rural,,No,No,Electric
+544697.74,448.53,5,4,69,45.73,1045.46,1971.31,2.93,2.83,4.0,Detached House,Suburban,Moderate,No,No,Solar
+800856.61,497.42,5,4,75,28.06,1858.79,4457.11,9.01,6.19,58.55,Detached House,Suburban,High,Yes,No,Gas
+867074.27,85.95,3,2,4,1.86,281.72,3724.79,6.21,4.82,74.24,Detached House,Inner City,Moderate,No,No,Gas
+651515.01,249.34,5,3,31,2.98,497.48,4346.82,7.39,8.11,3.4,Townhouse,Rural,High,No,No,Gas
+280273.84,51.1,1,1,71,16.66,53.95,5704.15,3.7,8.11,39.08,Detached House,Rural,,No,No,
+687737.18,432.15,6,4,59,12.19,1269.89,6792.06,5.24,0.66,26.33,Apartment,Suburban,High,No,Yes,Gas
+632731.44,167.14,3,3,9,45.32,522.26,9535.53,2.46,9.57,94.23,Detached House,Inner City,High,Yes,No,Solar
+325782.19,212.1,4,4,100,38.44,471.33,2210.45,8.15,7.02,57.36,Apartment,Rural,,Yes,Yes,Solar
+389696.16,448.69,6,3,59,42.88,1653.53,7675.95,5.02,3.29,70.64,Apartment,Rural,High,No,Yes,Solar
+897422.06,399.06,6,4,27,44.68,1104.77,8728.73,7.69,8.91,76.58,Detached House,Inner City,,No,Yes,Electric
+446490.26,373.4,5,4,78,37.65,958.68,6251.52,4.72,0.6,58.73,Apartment,Inner City,,No,No,
+748868.27,495.16,6,3,100,5.92,940.41,2780.64,3.56,2.11,8.98,Apartment,Suburban,,No,No,Solar
+329221.62,115.5,4,3,37,46.16,202.73,7510.48,5.14,2.02,5.73,Detached House,Rural,Moderate,Yes,No,Gas
+502552.64,261.45,3,2,53,35.0,435.07,8970.08,4.0,4.37,55.68,Detached House,Suburban,High,No,Yes,Electric
+929082.36,403.55,6,4,89,0.5,1484.66,5208.61,8.0,3.6,81.13,Townhouse,Suburban,Moderate,No,Yes,Solar
+916041.46,499.05,6,4,70,36.83,1451.92,1501.92,5.23,5.86,80.5,Detached House,Inner City,,No,Yes,Electric
+873958.32,303.06,5,4,49,11.87,962.22,1902.49,7.86,8.06,24.43,Detached House,Suburban,High,No,No,Electric
+100000.0,85.75,2,2,62,31.69,308.98,1784.13,9.62,2.08,41.82,Townhouse,Rural,Moderate,Yes,Yes,
+880760.35,446.39,5,4,32,12.39,1551.63,5915.76,8.29,8.85,29.21,Detached House,Rural,,Yes,No,Gas
+627399.75,288.71,6,4,16,15.14,817.7,8000.84,4.78,7.62,65.75,Apartment,Rural,High,Yes,No,Solar
+317250.65,229.02,4,2,60,38.36,447.67,5030.92,7.01,9.88,89.72,Apartment,Rural,,Yes,Yes,Electric
+488569.92,67.14,2,1,13,26.48,208.54,3191.45,6.34,3.41,79.78,Townhouse,Inner City,High,No,Yes,Gas
+340385.11,115.58,3,2,92,48.78,324.24,4655.34,6.47,5.85,57.74,Townhouse,Inner City,High,Yes,No,Solar
+695702.2,237.48,3,3,96,4.79,650.98,9344.43,8.93,1.98,91.03,Townhouse,Inner City,High,No,Yes,Electric
+109854.92,114.58,2,1,57,42.86,405.77,8290.49,6.21,4.23,31.12,Townhouse,Suburban,,Yes,No,Electric
+252381.42,221.29,4,2,38,35.38,739.79,9421.93,7.68,6.73,91.55,Apartment,Rural,Moderate,Yes,No,Solar
+858304.33,436.9,6,3,95,21.01,870.54,7602.3,5.72,7.98,95.51,Apartment,Inner City,High,Yes,No,Solar
+365380.7,171.65,3,4,30,45.53,462.19,1221.52,8.01,6.27,95.63,Apartment,Inner City,,No,No,Solar
+740340.66,361.73,4,3,73,38.05,390.1,8970.79,7.92,9.03,98.45,Detached House,Inner City,Moderate,No,Yes,Solar
+375664.12,249.87,4,4,75,23.52,912.3,4609.32,2.76,0.84,84.09,Apartment,Suburban,High,No,No,Solar
+604521.5,71.55,3,3,37,14.88,202.73,4172.93,6.58,2.21,24.1,Townhouse,Inner City,Moderate,No,Yes,Electric
+949225.42,296.73,6,3,38,3.35,299.93,8525.2,3.04,6.87,7.37,Townhouse,Rural,Moderate,Yes,Yes,Electric
+744263.63,246.81,4,4,66,8.94,431.44,5102.66,7.11,9.63,98.86,Townhouse,Suburban,Moderate,Yes,No,Electric
+1134021.94,395.8,6,4,45,13.68,1580.41,1392.19,3.5,6.95,40.6,Townhouse,Inner City,Moderate,No,Yes,Gas
+446192.47,141.87,3,2,60,28.59,262.84,4689.34,6.36,2.63,95.15,Detached House,Inner City,,No,No,Electric
+746428.01,494.15,6,4,88,43.01,583.15,8493.67,4.47,1.55,46.11,Detached House,Suburban,,Yes,Yes,
+701623.63,235.32,5,4,87,1.99,793.19,6519.47,8.71,9.88,0.9,Apartment,Rural,High,Yes,No,Gas
+113193.57,373.08,4,3,26,39.29,710.25,6948.22,6.16,2.63,77.31,Apartment,Rural,Moderate,No,No,Electric
+270307.58,194.78,2,2,68,45.86,653.74,7984.99,6.88,4.02,75.39,Apartment,Inner City,Moderate,No,Yes,Solar
+819536.17,304.4,5,3,45,10.68,975.91,2793.73,2.63,3.95,3.57,Apartment,Inner City,High,Yes,No,Solar
+304141.86,76.52,1,1,4,1.55,221.66,5746.81,4.02,7.44,88.57,Townhouse,Rural,Moderate,No,No,Electric
+750263.05,404.0,6,3,37,2.63,815.28,9160.65,8.76,2.13,35.03,Townhouse,Suburban,,No,No,Gas
+413256.76,338.35,5,4,39,43.83,371.87,6246.34,4.83,1.35,3.22,Apartment,Suburban,High,No,No,Gas
+696865.49,432.62,5,3,16,27.2,610.05,3054.61,6.85,0.76,26.2,Detached House,Suburban,High,No,No,Gas
+931848.01,412.4,6,4,66,43.81,1204.6,2890.65,6.65,4.64,51.93,Detached House,Inner City,High,Yes,Yes,Electric
+773107.16,82.92,1,3,36,9.24,305.13,5912.81,8.89,9.73,49.11,Detached House,Inner City,Moderate,No,Yes,Gas
+318060.62,265.3,5,3,11,40.1,970.46,6739.19,2.69,0.68,66.41,Townhouse,Rural,High,No,No,
+596544.35,360.23,6,4,92,34.68,494.61,6633.35,8.52,8.19,97.03,Detached House,Rural,High,Yes,No,
+100000.0,69.72,1,1,56,47.38,157.88,5131.17,5.21,4.2,55.38,Detached House,Rural,Moderate,No,No,Gas
+545986.21,141.37,2,2,63,45.17,551.91,4955.18,9.26,8.72,86.41,Detached House,Inner City,,No,Yes,
+604870.43,355.91,4,4,48,15.38,456.66,7887.83,6.62,1.7,85.79,Townhouse,Rural,,No,Yes,
+466512.44,405.7,5,3,29,44.94,1602.35,4208.69,8.25,7.07,62.8,Apartment,Suburban,,No,Yes,Electric
+802640.98,462.31,5,4,12,20.97,1594.49,6183.64,8.21,0.07,58.6,Townhouse,Inner City,,No,Yes,Electric
+563042.15,312.32,4,2,98,3.32,461.94,3719.6,6.91,8.24,59.77,Apartment,Rural,Moderate,No,Yes,Electric
+301223.2,77.11,2,3,19,48.74,285.61,4792.54,9.69,4.27,27.33,Detached House,Suburban,Moderate,No,Yes,
+734076.03,225.8,3,4,63,19.99,621.79,3428.78,2.74,8.96,55.45,Detached House,Rural,High,Yes,Yes,
+198752.98,64.8,1,2,40,13.45,210.1,9336.32,9.82,9.74,95.96,Apartment,Rural,Moderate,No,Yes,Gas
+452298.11,81.96,4,4,4,40.94,257.64,4542.0,2.43,1.86,12.3,Townhouse,Suburban,,Yes,Yes,
+836938.44,248.1,4,4,43,6.22,986.69,9286.37,4.63,0.64,18.87,Townhouse,Inner City,,No,Yes,Gas
+930986.46,360.73,5,4,84,5.45,437.02,8420.08,8.3,8.46,82.96,Detached House,Suburban,High,Yes,No,Solar
+869021.83,267.91,3,2,97,2.12,534.05,5168.69,6.68,5.58,41.43,Detached House,Inner City,,No,Yes,Electric
+522186.41,301.2,4,3,61,40.43,900.48,9868.74,2.45,0.63,6.97,Apartment,Inner City,High,No,Yes,Solar
+545067.75,391.97,5,3,64,24.55,1278.05,5581.87,6.4,7.28,19.12,Townhouse,Rural,,No,No,Solar
+670982.23,382.74,5,3,95,45.75,793.56,6735.96,5.98,5.27,36.8,Detached House,Suburban,,Yes,Yes,Electric
+834885.62,132.26,3,3,89,14.34,354.39,4475.71,3.18,5.98,3.5,Detached House,Inner City,High,No,Yes,Solar
+491164.87,287.37,3,3,25,49.9,1047.02,1396.11,5.04,2.84,82.17,Detached House,Inner City,,No,No,
+410783.24,248.69,3,2,94,33.74,557.36,4804.29,9.56,3.92,29.69,Townhouse,Suburban,High,No,Yes,Gas
+563419.43,278.33,5,4,75,47.66,564.26,9899.12,9.5,7.7,58.57,Detached House,Rural,Moderate,Yes,Yes,
+848637.86,338.3,5,4,17,21.2,420.97,2477.12,2.45,2.15,41.3,Apartment,Inner City,High,Yes,Yes,Gas
+194948.78,227.04,5,4,89,31.1,374.15,2361.6,5.24,2.1,14.93,Apartment,Rural,Moderate,Yes,No,Gas
+296173.55,55.22,1,2,57,47.88,81.17,8904.69,3.33,6.19,42.65,Townhouse,Inner City,Moderate,No,Yes,
+698882.76,233.66,4,3,35,28.89,346.94,8867.99,4.3,3.22,20.31,Detached House,Inner City,Moderate,Yes,No,Gas
+518344.71,154.06,4,2,44,30.1,356.92,7510.67,9.22,7.7,69.22,Detached House,Rural,High,Yes,Yes,Electric
+399898.66,127.22,3,3,78,37.84,151.75,2739.73,4.57,8.94,11.36,Townhouse,Suburban,,No,Yes,Solar
+556678.69,189.86,3,3,48,10.56,403.36,1709.48,9.52,0.81,87.88,Detached House,Suburban,High,No,Yes,Solar
+842362.93,323.54,6,4,60,34.05,332.71,4566.58,8.29,5.32,79.24,Detached House,Inner City,,No,Yes,
+963149.86,451.19,5,4,21,7.11,1787.41,1015.31,7.39,9.07,77.76,Detached House,Suburban,High,No,No,
+361549.85,262.5,3,4,30,43.66,639.53,8582.69,8.2,0.05,55.64,Townhouse,Inner City,,Yes,No,Gas
+692192.38,345.29,4,2,34,31.55,588.92,2218.47,5.04,7.58,67.04,Detached House,Suburban,High,No,Yes,
+590419.06,197.73,3,2,15,6.1,280.21,9025.42,5.5,2.66,98.91,Detached House,Suburban,Moderate,No,No,Electric
+125852.29,88.84,1,3,55,34.95,344.36,3833.25,7.88,0.26,74.18,Townhouse,Suburban,,Yes,Yes,Gas
+604616.96,281.96,4,4,81,36.94,390.78,8245.68,4.52,9.62,44.03,Townhouse,Suburban,,No,Yes,Electric
+484028.67,142.91,3,4,76,22.27,316.36,5673.31,3.17,2.94,50.17,Detached House,Suburban,High,No,No,
+964780.64,219.45,4,4,80,7.22,873.71,7636.91,9.82,4.42,18.61,Detached House,Inner City,,No,Yes,Electric
+461632.63,63.74,2,1,18,2.0,68.75,4517.93,2.16,2.65,1.65,Townhouse,Rural,,Yes,No,
+507923.55,486.26,5,4,50,48.32,1593.27,8928.66,9.61,1.55,48.01,Detached House,Suburban,,No,No,Solar
+667351.43,366.37,4,4,22,34.82,1192.74,3816.38,8.99,7.05,65.71,Apartment,Inner City,,Yes,No,Electric
+210715.46,87.06,1,3,55,31.21,190.0,2476.52,5.51,7.05,37.55,Townhouse,Suburban,,No,No,
+738045.48,284.4,6,4,42,18.94,478.77,1116.41,6.62,1.7,26.52,Detached House,Suburban,,Yes,No,Solar
+786787.4,390.72,4,2,37,14.01,911.54,3430.2,3.28,5.72,26.32,Apartment,Inner City,High,No,Yes,Electric
+903104.66,408.4,6,4,42,13.82,1312.59,6661.18,6.44,6.25,71.47,Townhouse,Suburban,High,No,Yes,Solar
+208432.0,105.18,3,2,2,30.56,389.6,2187.1,6.72,2.16,29.79,Apartment,Rural,Moderate,No,Yes,
+833145.42,458.66,5,3,4,10.47,853.18,4886.52,7.03,5.93,10.05,Townhouse,Rural,,Yes,Yes,Solar
+379641.57,129.55,4,3,29,1.07,466.37,5387.18,9.31,2.73,21.25,Apartment,Rural,Moderate,No,No,Solar
+826242.57,197.18,3,3,12,28.92,771.11,5900.87,3.45,4.46,12.6,Detached House,Inner City,High,Yes,Yes,Gas
+582635.53,327.0,5,4,3,49.67,1028.33,7738.58,5.43,7.96,45.94,Detached House,Suburban,,No,No,Electric
+776677.29,430.51,5,4,41,27.76,1294.35,6305.19,6.49,5.89,85.98,Detached House,Rural,,Yes,Yes,Electric
+389491.68,311.63,6,3,62,39.71,482.46,7288.72,6.38,2.38,31.14,Apartment,Suburban,High,Yes,No,
+813078.02,431.49,6,3,27,24.05,695.96,9374.62,8.05,6.11,48.16,Apartment,Inner City,,Yes,No,
+721703.54,344.35,5,4,84,8.48,966.24,4105.15,3.45,0.74,55.56,Apartment,Suburban,High,Yes,Yes,
+583676.26,106.38,2,2,48,38.22,325.75,2305.93,7.16,5.32,40.02,Detached House,Inner City,Moderate,Yes,Yes,Electric
+315051.69,243.75,3,3,8,48.55,424.67,3925.66,4.94,4.46,78.05,Apartment,Inner City,Moderate,Yes,No,Gas
+366315.83,143.99,3,4,25,38.7,467.8,9408.07,8.42,1.28,97.73,Detached House,Suburban,,Yes,No,Gas
+100000.0,136.96,2,1,67,46.72,195.37,3814.14,8.75,8.45,70.54,Detached House,Rural,High,No,No,Gas
+630446.94,361.0,6,3,60,24.02,1155.58,1764.26,6.94,4.22,94.24,Townhouse,Rural,High,Yes,Yes,
+356107.05,151.8,2,1,41,33.21,520.14,4713.53,8.73,1.2,1.27,Townhouse,Inner City,High,Yes,No,
+1113275.8,344.02,4,4,15,3.14,1133.13,5430.37,2.07,9.63,57.32,Townhouse,Inner City,Moderate,Yes,No,Electric
+100000.0,71.81,2,3,28,47.2,128.14,1019.06,9.74,0.03,75.02,Apartment,Suburban,High,No,Yes,Solar
+604714.08,477.05,6,4,94,43.79,990.88,3024.86,7.18,2.02,49.88,Apartment,Inner City,High,No,Yes,Electric
+347742.86,53.1,2,3,8,32.76,90.14,8632.2,9.14,6.46,72.58,Detached House,Rural,,Yes,No,Gas
+771953.87,252.77,4,3,15,5.28,580.94,5331.61,7.32,6.69,94.17,Detached House,Suburban,,No,No,
+695171.34,428.32,5,4,2,33.88,725.7,6665.46,7.86,7.08,12.23,Apartment,Rural,,Yes,Yes,Solar
+707525.99,349.52,4,2,15,26.15,983.93,8850.06,2.39,7.76,50.36,Townhouse,Inner City,Moderate,Yes,No,Solar
+647409.06,448.33,6,4,64,22.66,564.02,5498.46,5.45,8.56,3.93,Apartment,Rural,,Yes,No,Gas
+682025.51,63.15,3,2,88,1.44,177.87,4924.04,6.93,8.65,33.7,Detached House,Inner City,,No,No,Solar
+258739.34,58.26,1,1,46,19.6,167.42,2773.25,7.26,8.77,81.1,Apartment,Suburban,,Yes,No,Solar
+537577.89,104.25,2,1,75,9.27,386.89,4610.48,4.24,8.31,55.09,Townhouse,Rural,,Yes,Yes,Solar
+889281.04,428.91,5,4,4,9.77,641.73,7677.21,9.35,2.2,61.99,Detached House,Suburban,High,Yes,Yes,
+589598.41,149.95,2,3,55,32.45,502.45,7752.11,2.18,9.98,63.51,Townhouse,Inner City,,Yes,No,Solar
+633043.09,239.15,3,2,45,32.3,835.66,3138.39,5.97,7.36,31.83,Townhouse,Inner City,,Yes,No,Electric
+244062.52,162.73,4,2,18,40.08,370.76,3717.94,2.01,6.85,72.44,Apartment,Rural,Moderate,Yes,Yes,Solar
+901258.96,345.55,4,3,34,8.16,571.23,7862.58,6.93,7.58,73.74,Detached House,Inner City,,No,No,
+618795.76,489.61,6,4,68,31.6,783.53,4607.65,2.37,7.44,9.43,Apartment,Rural,Moderate,No,Yes,Electric
+553902.94,326.06,4,2,91,45.96,830.31,4150.77,6.33,3.43,72.46,Detached House,Inner City,High,No,Yes,Solar
+655978.08,293.15,6,4,34,1.11,946.65,5573.94,6.08,2.02,55.29,Townhouse,Rural,Moderate,Yes,No,
+337188.15,275.29,4,4,72,32.52,342.55,2673.18,9.81,1.7,89.81,Townhouse,Rural,Moderate,No,Yes,Gas
+652976.25,259.71,5,3,43,43.37,393.73,5210.75,5.7,6.62,64.59,Townhouse,Inner City,High,Yes,Yes,Solar
+490685.85,162.81,2,2,25,4.91,209.51,9703.23,4.36,1.28,23.8,Detached House,Rural,,Yes,No,Gas
+414573.62,143.84,2,1,39,5.44,449.22,8621.07,7.48,1.61,19.99,Detached House,Rural,Moderate,Yes,No,
+847402.71,414.86,5,3,13,34.0,1147.81,6769.01,5.91,8.32,56.83,Detached House,Inner City,High,No,No,Gas
+388457.59,194.98,2,3,85,10.06,218.51,3476.09,8.99,2.35,19.03,Detached House,Rural,Moderate,No,No,Electric
+586785.68,171.67,2,1,54,7.83,248.43,3238.63,8.49,7.56,1.2,Apartment,Inner City,High,No,Yes,Solar
+456941.97,64.24,1,1,43,31.13,118.95,9251.91,7.65,8.65,53.79,Apartment,Inner City,High,Yes,Yes,Electric
+322353.4,118.3,2,3,14,33.1,447.29,4547.2,6.27,5.24,48.35,Townhouse,Rural,,Yes,Yes,Solar
+391649.93,116.24,3,3,13,20.25,398.68,4269.38,6.86,2.33,71.15,Detached House,Rural,,No,No,
+821973.9,488.92,5,4,24,25.74,1766.44,5498.9,8.06,6.96,92.93,Detached House,Suburban,,No,Yes,Solar
+475405.89,239.55,3,3,26,10.51,538.94,3787.05,6.96,0.82,43.41,Apartment,Rural,High,Yes,Yes,Gas
+164760.31,95.79,1,1,87,10.23,324.59,4138.86,5.51,4.86,51.07,Apartment,Rural,,No,No,
+657646.52,188.77,3,2,42,12.37,677.8,6498.77,2.97,6.1,10.4,Apartment,Inner City,,No,No,Electric
+525025.08,291.68,4,2,57,36.0,381.97,1340.5,3.63,4.44,66.52,Detached House,Suburban,Moderate,Yes,No,Solar
+720497.53,329.13,4,4,43,28.29,999.19,4923.99,7.84,7.27,84.07,Detached House,Suburban,Moderate,No,Yes,Electric
+490043.35,329.27,6,4,31,31.64,1096.33,9828.69,9.88,3.41,56.55,Townhouse,Rural,High,No,No,Solar
+556068.64,221.54,5,4,10,3.8,766.72,1189.16,3.38,0.08,45.65,Apartment,Rural,Moderate,Yes,No,Gas
+863089.78,276.71,4,2,42,2.95,336.57,4492.16,3.71,0.92,31.92,Detached House,Inner City,Moderate,No,Yes,Solar
+524955.12,157.72,2,2,38,17.45,322.55,1200.43,9.99,2.22,93.58,Townhouse,Inner City,Moderate,No,Yes,
+507073.15,159.54,2,2,29,14.11,531.44,5471.84,4.95,4.29,70.28,Apartment,Inner City,,Yes,No,
+472368.1,191.58,4,2,61,3.09,215.21,8450.46,9.38,1.21,14.36,Detached House,Rural,Moderate,No,No,
+862601.28,266.21,6,4,32,1.13,798.92,5774.02,6.06,3.31,15.09,Townhouse,Rural,,Yes,Yes,Gas
+515267.27,206.32,4,2,36,29.04,509.16,2968.59,5.16,9.57,90.8,Townhouse,Suburban,Moderate,Yes,No,Electric
+876814.94,416.03,6,4,95,13.54,476.6,1770.23,3.12,4.31,32.3,Townhouse,Inner City,,Yes,No,Gas
+560092.04,378.94,4,4,68,43.96,1271.42,4599.63,5.36,5.23,91.51,Apartment,Inner City,High,No,Yes,Electric
+782712.19,498.89,5,4,55,13.35,616.37,3002.01,9.37,3.2,28.43,Townhouse,Suburban,High,Yes,No,Gas
+524163.27,60.42,1,2,45,1.05,232.11,9855.49,8.47,9.27,82.64,Townhouse,Suburban,High,No,No,
+621340.52,332.78,6,4,37,29.77,932.33,5105.86,7.46,6.7,63.56,Townhouse,Rural,,Yes,No,
+807480.73,420.97,5,4,57,30.28,1480.22,6555.17,5.04,9.89,63.04,Townhouse,Inner City,High,No,No,
+407126.13,116.7,2,2,17,6.02,124.71,1151.03,8.23,3.95,2.69,Apartment,Rural,High,Yes,Yes,
+368752.96,126.32,3,2,64,39.31,245.36,7112.26,6.17,6.94,1.07,Detached House,Rural,High,No,Yes,Electric
+253554.32,146.65,2,3,27,14.61,522.12,4906.16,9.26,3.26,96.71,Apartment,Suburban,,Yes,No,Electric
+911571.68,418.76,5,4,23,3.65,1248.69,4662.09,2.97,8.32,2.68,Apartment,Suburban,High,Yes,Yes,
+617337.82,310.34,4,4,45,23.15,1104.4,3957.98,6.82,1.41,44.83,Detached House,Rural,Moderate,Yes,Yes,Gas
+835431.76,482.66,5,4,59,20.74,1820.21,9487.88,6.99,1.44,45.04,Townhouse,Inner City,,Yes,No,Solar
+435216.45,247.32,4,3,17,49.58,928.51,8590.69,7.1,2.2,59.83,Detached House,Suburban,Moderate,Yes,No,Gas
+518916.86,344.86,6,3,27,43.08,685.12,8612.31,5.47,3.2,81.56,Apartment,Inner City,High,No,No,Solar
+373252.73,130.93,3,3,54,47.27,406.36,6314.21,6.26,5.36,81.06,Detached House,Suburban,High,Yes,Yes,
+548905.18,297.67,3,2,67,18.94,632.7,1334.72,7.97,7.29,55.84,Detached House,Suburban,,No,No,Solar
+269950.54,123.88,2,2,28,33.11,443.69,2889.06,3.1,4.52,94.51,Townhouse,Rural,,Yes,Yes,Gas
+646505.35,348.1,6,4,89,37.29,1183.71,4495.84,2.59,2.42,8.28,Apartment,Rural,High,Yes,Yes,Solar
+614881.07,473.11,6,4,4,43.97,1365.12,6763.02,3.02,7.05,81.33,Apartment,Suburban,High,No,No,Electric
+535426.38,378.6,5,3,53,42.7,870.01,1222.65,7.33,6.82,31.62,Detached House,Suburban,,No,No,Electric
+421125.89,264.1,4,4,49,47.15,763.83,3840.65,5.76,1.7,81.74,Apartment,Inner City,High,Yes,Yes,
+836061.33,439.73,6,4,80,24.1,878.14,4106.68,6.56,8.05,62.32,Detached House,Suburban,High,No,Yes,Electric
+621888.31,254.99,3,4,54,20.48,569.44,1839.0,2.28,0.03,78.55,Townhouse,Inner City,,No,Yes,Electric
+585560.16,480.8,5,3,6,30.69,1624.97,6522.98,3.88,0.69,39.66,Detached House,Rural,High,No,No,Gas
+314051.2,106.41,3,4,46,38.79,148.84,3893.18,2.87,3.43,61.87,Detached House,Rural,,Yes,No,
+729781.18,352.97,4,3,71,1.38,761.81,8293.2,5.55,1.23,10.36,Detached House,Rural,,Yes,Yes,Solar
+545003.26,470.3,6,4,27,39.79,1102.14,7327.91,8.17,3.07,25.15,Townhouse,Rural,Moderate,Yes,Yes,
+721891.22,470.26,6,4,86,29.84,812.79,3103.36,5.21,1.39,39.6,Apartment,Inner City,,No,No,
+525932.77,431.41,6,3,58,21.94,564.68,9647.86,9.15,1.6,74.88,Apartment,Inner City,,No,Yes,
+785968.12,437.44,6,3,3,34.03,1305.99,3790.51,6.62,7.68,61.08,Detached House,Rural,High,No,Yes,Solar
+773545.56,120.43,3,2,66,1.7,176.72,6981.38,9.4,9.73,19.95,Detached House,Rural,,Yes,Yes,
+775674.98,97.89,2,2,95,13.69,355.38,9151.97,6.15,9.46,60.34,Detached House,Inner City,Moderate,No,Yes,Solar
+318413.17,362.42,4,2,35,34.36,1171.99,1814.31,7.45,1.89,58.8,Apartment,Suburban,High,No,No,Solar
+830376.15,267.29,4,4,49,2.58,830.71,5166.82,8.57,7.06,93.85,Townhouse,Inner City,Moderate,No,No,Gas
+752310.84,242.66,3,3,35,7.39,491.71,9349.94,6.91,2.1,92.21,Townhouse,Inner City,,No,Yes,Gas
+727294.87,379.78,4,2,71,24.58,882.25,6502.1,9.02,8.66,82.66,Townhouse,Inner City,High,No,No,Solar
+659605.0,101.19,3,3,95,22.14,316.45,8519.66,7.48,2.71,37.23,Detached House,Inner City,,Yes,Yes,Gas
+747051.82,408.09,6,4,63,33.09,895.24,4375.22,6.37,4.43,74.35,Detached House,Suburban,High,Yes,No,Solar
+973932.68,378.54,5,3,11,31.2,1165.52,1396.87,9.69,6.87,23.86,Townhouse,Inner City,Moderate,Yes,Yes,Electric
+783443.69,204.41,3,2,100,0.64,301.79,8742.68,6.01,6.16,84.9,Townhouse,Inner City,High,Yes,No,Solar
+1108931.33,477.6,6,3,19,1.78,1873.4,5194.52,3.37,8.69,0.29,Detached House,Rural,,Yes,No,
+787852.38,308.68,4,4,5,28.01,676.85,2354.29,8.39,1.82,87.76,Detached House,Inner City,Moderate,Yes,No,Gas
+768581.8,347.6,4,2,49,4.75,913.51,1979.52,6.6,8.6,9.02,Apartment,Inner City,,Yes,No,Solar
+711546.06,194.0,3,3,59,21.39,614.51,7618.15,2.09,7.44,86.23,Detached House,Inner City,Moderate,No,No,Gas
+839759.59,296.51,5,4,9,26.36,1098.12,3011.24,4.89,2.99,1.32,Townhouse,Inner City,Moderate,Yes,Yes,Electric
+651162.31,100.28,4,4,63,31.93,361.2,4244.87,6.74,9.48,81.17,Townhouse,Inner City,High,Yes,No,Solar
+551873.82,213.95,4,3,37,23.16,331.77,4791.94,6.66,5.2,23.1,Townhouse,Inner City,Moderate,No,No,
+900587.64,236.19,4,3,41,6.18,334.03,4837.02,7.95,5.36,27.21,Detached House,Inner City,High,Yes,No,Solar
+477239.83,71.91,1,3,28,18.28,262.72,4291.09,8.41,2.05,57.83,Detached House,Rural,High,Yes,Yes,Electric
+630963.41,445.83,5,3,11,25.83,1042.01,8645.29,5.12,4.15,92.57,Townhouse,Rural,High,Yes,Yes,
+488553.46,436.68,6,4,34,40.66,754.72,8098.28,2.78,1.67,64.83,Townhouse,Suburban,High,No,No,Electric
+899588.4,366.67,4,2,14,11.3,656.13,7549.68,5.78,3.35,99.74,Detached House,Inner City,Moderate,Yes,No,Gas
+701238.13,153.04,4,3,45,1.42,492.63,4801.35,7.59,5.18,80.74,Detached House,Rural,High,No,Yes,Gas
+543841.3,277.44,4,3,46,2.37,487.46,3647.58,7.18,6.89,37.94,Apartment,Rural,Moderate,No,No,Solar
+307636.76,305.64,5,4,31,30.6,952.13,4459.81,9.46,1.01,91.5,Townhouse,Rural,High,Yes,No,Electric
+295485.57,183.76,2,2,27,22.11,657.68,1564.79,8.68,3.43,59.8,Apartment,Suburban,High,Yes,No,Electric
+332711.1,380.34,5,3,54,34.5,1374.66,1947.43,8.85,0.36,23.95,Apartment,Suburban,,Yes,No,Gas
+1058562.02,389.72,6,3,71,2.33,677.11,6180.84,7.38,6.45,13.26,Detached House,Suburban,Moderate,No,Yes,Electric
+301633.37,107.3,2,2,78,24.89,336.23,4309.92,5.02,4.11,51.0,Townhouse,Suburban,,Yes,No,Gas
+581049.45,459.91,5,3,15,37.2,1461.72,9728.92,6.87,5.1,21.93,Apartment,Rural,High,Yes,Yes,
+100000.0,185.98,2,1,72,44.39,474.07,8771.06,6.88,2.66,41.45,Townhouse,Rural,,Yes,No,Solar
+534367.35,392.75,6,4,43,46.35,417.21,4763.06,3.26,2.05,18.53,Townhouse,Suburban,,Yes,Yes,Electric
+770056.0,490.67,5,3,90,31.67,1147.45,7962.95,4.83,8.97,15.82,Detached House,Suburban,,Yes,No,
+713054.46,71.91,3,4,24,8.51,284.85,6874.8,7.93,9.37,20.52,Apartment,Inner City,High,No,Yes,Gas
+498948.88,137.17,3,4,76,5.3,286.23,5971.66,9.51,9.3,9.33,Townhouse,Rural,,Yes,No,Electric
+612500.78,401.06,6,3,4,41.81,844.0,7673.54,8.67,4.87,40.76,Townhouse,Inner City,,Yes,No,Gas
+101759.69,143.89,3,2,20,43.74,287.96,2880.13,4.71,4.63,36.73,Townhouse,Rural,High,Yes,No,
+854138.37,372.74,6,4,87,9.28,1441.4,3934.76,4.18,4.49,13.09,Apartment,Inner City,Moderate,No,No,Solar
+582772.47,395.27,5,4,41,30.6,866.13,8880.29,3.39,7.06,67.11,Townhouse,Rural,,Yes,No,Solar
+886495.21,276.77,6,4,11,1.56,849.18,3670.87,5.92,0.8,35.75,Detached House,Suburban,,No,Yes,Gas
+137254.58,87.54,1,3,91,23.9,312.03,6986.14,8.03,0.68,27.76,Townhouse,Rural,,No,No,Electric
+449915.88,239.69,4,3,41,5.05,374.51,3847.51,3.98,2.92,54.1,Townhouse,Rural,Moderate,No,No,Solar
+781884.74,59.13,2,1,11,1.94,196.69,9677.53,6.67,6.3,42.69,Detached House,Inner City,High,No,Yes,Solar
+750855.67,313.45,4,4,13,4.07,1195.08,5705.02,9.89,3.07,85.55,Apartment,Inner City,Moderate,No,No,
+791714.53,317.93,5,3,61,11.59,796.48,5172.32,4.18,9.57,98.94,Detached House,Rural,,No,No,Electric
+586833.7,233.71,6,4,85,42.85,462.21,9915.97,6.88,9.03,50.94,Apartment,Inner City,,Yes,No,Electric
+281158.44,166.17,2,3,28,36.77,281.53,4882.28,4.4,9.01,54.91,Apartment,Suburban,,No,Yes,
+729038.53,233.68,4,3,82,1.57,420.34,5604.15,7.59,1.49,25.44,Detached House,Rural,Moderate,Yes,Yes,Gas
+315887.11,71.56,1,2,17,25.74,73.4,6251.65,3.17,7.11,61.03,Detached House,Rural,,No,Yes,Electric
+280751.9,241.99,3,3,58,20.71,362.02,9939.98,6.17,6.26,99.02,Apartment,Rural,Moderate,Yes,No,Solar
+579198.63,289.46,3,4,74,34.55,588.78,4358.8,3.58,8.05,53.56,Detached House,Suburban,High,No,No,Gas
+100000.0,74.52,1,1,16,29.76,290.98,3602.15,9.55,4.94,64.45,Apartment,Rural,,No,Yes,Gas
+707363.65,114.47,5,4,34,15.95,398.53,6590.11,4.92,0.78,54.32,Apartment,Inner City,,Yes,Yes,Solar
+530863.9,270.5,5,3,67,48.76,1064.34,2912.19,3.23,9.45,11.84,Townhouse,Suburban,High,No,Yes,Electric
+785021.82,357.72,4,2,86,46.71,923.31,5518.89,7.64,8.82,20.15,Detached House,Inner City,High,No,Yes,Gas
+858248.02,276.95,5,3,95,0.68,777.32,3547.37,4.68,4.17,46.92,Townhouse,Inner City,,No,No,Gas
+913196.36,461.52,6,4,35,17.44,1119.57,6979.65,6.84,5.51,91.27,Apartment,Inner City,High,Yes,No,Electric
+108551.71,120.32,5,3,61,35.56,463.55,7363.89,8.39,0.13,48.1,Townhouse,Rural,High,No,No,Gas
+621357.8,63.76,2,2,79,15.85,220.65,6890.86,4.96,9.86,37.86,Townhouse,Inner City,Moderate,No,Yes,Electric
+456476.28,116.15,3,3,24,42.94,339.43,1529.58,7.96,6.07,94.66,Townhouse,Inner City,Moderate,No,Yes,Electric
+798242.71,361.91,4,3,66,35.79,1401.73,5322.06,3.7,1.17,44.37,Detached House,Inner City,High,No,Yes,Gas
+718699.09,312.46,5,3,83,39.48,582.46,3645.38,3.15,6.84,49.37,Townhouse,Suburban,High,Yes,Yes,Solar
+475145.71,401.5,6,4,38,35.84,1074.81,8721.51,6.13,4.01,44.53,Apartment,Rural,Moderate,No,Yes,Gas
+537788.5,255.83,3,2,89,10.99,958.38,6905.92,5.99,8.14,97.05,Apartment,Suburban,,Yes,Yes,
+713595.07,410.02,6,4,10,37.9,1163.99,1520.26,4.3,8.61,76.76,Townhouse,Suburban,Moderate,No,Yes,Electric
+1055758.98,406.66,6,4,100,25.99,1357.91,1049.21,3.94,9.95,54.42,Townhouse,Inner City,High,Yes,Yes,Solar
+782782.23,366.63,4,3,53,40.29,1389.28,8319.48,2.26,6.9,72.57,Detached House,Inner City,Moderate,Yes,Yes,Electric
+666026.18,274.76,3,2,86,11.0,1050.56,1486.05,8.79,1.3,95.76,Detached House,Suburban,Moderate,Yes,Yes,
+344452.88,162.22,4,3,26,22.28,164.29,6919.57,6.88,4.95,37.0,Apartment,Rural,Moderate,Yes,Yes,
+401322.89,178.12,4,2,82,17.13,408.98,6513.16,5.27,2.46,76.43,Apartment,Rural,Moderate,Yes,Yes,Solar
+387404.59,83.12,1,1,72,38.79,304.4,9689.06,8.36,8.64,49.07,Townhouse,Inner City,,Yes,Yes,Electric
+608665.39,340.86,6,4,49,34.49,939.82,5831.56,3.64,0.55,79.58,Townhouse,Suburban,,Yes,Yes,
+505671.8,375.92,4,4,76,41.73,1039.2,7202.43,4.94,5.22,42.26,Townhouse,Rural,High,Yes,Yes,
+606649.55,243.81,3,4,67,46.87,741.27,7784.09,5.4,7.65,72.81,Townhouse,Inner City,Moderate,No,Yes,Gas
+1045830.82,401.87,5,4,25,12.16,1057.23,3623.87,3.4,3.66,12.11,Townhouse,Inner City,High,No,Yes,Gas
+1019630.91,187.53,3,2,19,6.85,690.66,3643.31,2.9,8.57,11.12,Detached House,Inner City,Moderate,Yes,Yes,Solar
+811303.71,244.13,3,2,33,16.43,319.78,3625.57,2.89,2.23,29.64,Detached House,Inner City,High,No,Yes,
+626031.36,365.01,4,3,52,9.82,1375.29,8579.38,4.58,4.94,49.05,Apartment,Suburban,Moderate,Yes,Yes,Gas
+845497.2,385.0,5,4,34,5.54,1063.14,2242.56,7.71,1.35,70.03,Townhouse,Inner City,Moderate,No,Yes,Electric
+319079.17,98.29,2,1,51,40.59,327.08,3871.8,6.33,6.13,49.39,Detached House,Inner City,High,No,No,Gas
+257232.52,350.74,4,2,93,48.59,447.36,9039.92,8.47,6.54,50.56,Apartment,Suburban,High,Yes,No,Gas
+426914.24,221.07,3,2,93,0.53,636.61,4957.27,7.04,2.29,18.02,Apartment,Suburban,High,Yes,Yes,Solar
+724905.6,168.18,4,3,41,3.02,620.38,1200.67,2.72,2.92,67.11,Detached House,Rural,,No,Yes,
+349573.81,230.28,4,2,10,41.35,796.58,7551.64,7.78,4.16,24.81,Apartment,Inner City,Moderate,Yes,No,Electric
+816577.59,489.37,6,3,27,14.38,1552.98,7607.47,5.02,3.91,26.26,Townhouse,Suburban,High,No,Yes,
+683834.34,313.57,6,4,14,42.4,521.32,1661.62,5.09,4.83,24.61,Townhouse,Suburban,,Yes,Yes,Solar
+578110.34,385.54,5,4,63,11.94,1497.43,1860.26,6.69,0.34,71.01,Townhouse,Rural,Moderate,Yes,No,
+417327.08,140.23,2,1,31,6.6,415.09,1739.99,6.39,2.86,65.05,Townhouse,Suburban,,No,Yes,Electric
+708382.43,264.38,5,4,14,17.76,1020.83,8060.52,5.37,3.31,30.1,Apartment,Inner City,High,No,No,Gas
+843734.5,362.49,6,4,21,20.64,1428.11,5348.06,8.3,0.7,98.06,Detached House,Inner City,,No,No,Gas
+471128.16,300.91,4,2,78,9.19,755.35,6888.36,3.2,9.45,71.95,Apartment,Rural,Moderate,No,No,Gas
+581963.31,109.38,2,3,75,5.48,430.45,6839.76,8.46,3.24,29.52,Townhouse,Suburban,High,Yes,Yes,
+616420.01,285.88,3,4,96,18.67,1069.17,8494.82,8.9,4.95,18.44,Apartment,Inner City,,No,No,Solar
+477029.61,422.11,5,3,53,47.66,663.18,8529.39,7.23,2.42,8.9,Detached House,Rural,Moderate,Yes,Yes,Electric
+377660.82,100.3,3,3,27,35.75,127.63,5705.18,9.75,5.08,33.64,Townhouse,Suburban,Moderate,Yes,No,Gas
+573912.88,345.19,5,4,42,38.66,1180.65,5152.66,2.21,4.97,71.41,Townhouse,Rural,Moderate,Yes,Yes,Gas
+842135.74,420.87,6,3,60,7.94,858.07,6324.12,2.61,7.62,38.52,Apartment,Rural,High,Yes,Yes,
+634195.01,251.28,3,3,25,40.08,692.14,8638.69,3.21,9.46,51.2,Townhouse,Inner City,,No,Yes,
+437788.34,64.43,1,3,67,24.98,93.17,3378.29,7.86,8.75,28.06,Apartment,Inner City,High,Yes,No,Electric
+539106.85,94.95,4,4,23,2.3,265.93,9818.88,7.17,0.41,99.62,Townhouse,Suburban,Moderate,Yes,No,Electric
+829981.26,336.6,5,4,62,2.18,1196.34,3581.17,4.69,3.29,96.14,Detached House,Rural,,Yes,No,
+145210.02,81.31,1,3,3,39.38,293.84,3587.36,3.75,6.39,6.24,Apartment,Rural,High,No,Yes,Solar
+260772.38,290.35,3,4,98,39.01,711.1,8634.74,2.31,0.91,62.56,Apartment,Suburban,Moderate,Yes,Yes,Solar
+750797.99,147.93,5,4,19,25.34,469.43,7260.19,7.39,8.41,73.06,Townhouse,Suburban,Moderate,Yes,Yes,Electric
+467978.05,339.54,4,2,50,34.63,376.21,4887.72,2.53,5.33,58.25,Townhouse,Suburban,Moderate,No,Yes,Solar
+100000.0,234.51,3,3,47,48.26,706.64,8820.45,9.43,0.01,26.07,Apartment,Suburban,,No,Yes,
+984575.1,414.78,6,4,18,1.94,574.6,8902.14,5.63,7.23,87.47,Detached House,Rural,High,No,Yes,Electric
+503758.58,478.48,6,4,94,27.93,1022.79,8756.72,4.04,4.85,56.13,Apartment,Rural,,No,No,Gas
+203378.45,149.28,3,3,70,42.97,552.76,8339.84,2.22,0.05,70.54,Detached House,Rural,High,Yes,No,Solar
+564666.02,187.3,3,3,48,23.04,640.78,5461.47,4.23,5.78,97.38,Townhouse,Inner City,Moderate,No,No,Solar
+232618.03,50.31,2,4,17,40.12,145.22,1569.75,3.52,6.63,22.66,Apartment,Inner City,High,No,No,Gas
+100000.0,50.11,1,1,50,48.77,58.03,5856.62,3.56,3.14,43.71,Apartment,Inner City,,Yes,No,
+424626.55,128.36,4,3,98,36.67,322.6,6079.68,7.33,3.92,27.94,Townhouse,Inner City,Moderate,Yes,Yes,Electric
+533257.43,250.35,4,2,27,34.73,834.54,9891.1,4.23,2.77,17.34,Apartment,Inner City,High,No,No,Solar
+717872.07,417.5,6,4,21,46.84,1659.76,4896.34,8.68,3.5,21.78,Detached House,Suburban,High,Yes,No,
+638323.02,429.31,6,3,16,3.6,1119.28,7553.43,4.91,0.97,77.72,Apartment,Rural,,Yes,No,Gas
+528024.91,374.37,4,3,1,27.39,1081.76,5946.74,4.85,5.8,74.7,Apartment,Suburban,High,No,Yes,
+314039.74,90.74,1,2,3,43.36,317.67,5529.69,4.6,6.48,81.59,Townhouse,Suburban,Moderate,Yes,Yes,Electric
+833648.32,286.37,6,3,26,29.08,425.04,9542.97,8.12,8.73,90.42,Detached House,Suburban,,No,Yes,Gas
+705578.9,329.64,6,4,36,8.5,659.33,7322.88,9.34,1.16,51.55,Detached House,Rural,Moderate,No,Yes,Solar
+481913.95,482.73,6,4,80,29.91,1374.41,2437.16,2.31,0.6,32.33,Apartment,Rural,Moderate,No,No,Electric
+598310.52,356.38,5,4,68,8.06,771.63,5578.38,3.3,0.57,4.16,Townhouse,Rural,High,No,No,
+660977.02,199.25,3,2,69,8.26,212.76,9037.04,5.64,1.4,47.23,Detached House,Suburban,,Yes,Yes,Solar
+326755.87,221.92,5,4,23,25.99,483.83,4074.35,2.56,0.77,61.0,Apartment,Suburban,Moderate,Yes,No,Electric
+388392.3,365.83,4,2,93,44.48,794.09,3979.18,3.89,1.51,69.0,Townhouse,Inner City,Moderate,No,No,Electric
+664039.93,439.28,5,4,100,24.8,1451.7,3797.52,6.57,5.53,59.17,Apartment,Suburban,Moderate,Yes,Yes,Solar
+352886.56,293.23,4,2,14,43.61,895.79,1817.18,7.22,4.86,2.73,Townhouse,Rural,Moderate,Yes,Yes,
+442847.09,295.18,3,2,70,1.88,486.06,8994.56,6.22,8.23,79.14,Apartment,Rural,High,No,Yes,Gas
+190765.53,78.21,2,1,47,25.48,308.25,4481.44,7.46,5.58,67.87,Apartment,Rural,,Yes,Yes,Solar
+478848.88,155.83,2,1,40,42.94,275.42,4185.27,9.86,4.39,19.03,Detached House,Inner City,Moderate,No,Yes,Solar
+571742.83,255.73,3,4,46,16.23,507.9,2910.58,8.25,7.99,71.81,Detached House,Suburban,High,No,Yes,Gas
+761214.41,366.83,5,3,22,2.39,1142.24,4907.33,7.45,3.62,2.82,Apartment,Suburban,High,Yes,No,Solar
+1000263.52,399.68,4,4,66,6.38,971.88,3185.89,8.65,4.5,91.84,Townhouse,Inner City,Moderate,No,Yes,Solar
+413542.91,276.02,5,3,27,20.78,341.15,8530.31,4.84,3.62,68.42,Apartment,Suburban,,No,No,Gas
+491485.45,233.41,5,4,56,31.89,493.76,3622.4,5.43,0.11,30.71,Detached House,Suburban,Moderate,Yes,No,Gas
+472862.81,118.0,4,3,89,26.28,139.11,2757.9,9.48,5.95,79.98,Apartment,Inner City,Moderate,No,Yes,
+547773.31,392.61,5,3,68,45.13,1327.45,6633.84,4.51,3.91,21.32,Apartment,Inner City,,Yes,No,
+785429.68,126.31,3,2,4,20.7,287.12,5837.8,8.92,9.77,26.29,Detached House,Inner City,,Yes,No,Solar
+302518.11,273.02,4,2,17,44.24,486.75,6726.2,5.84,0.88,34.31,Detached House,Rural,Moderate,No,Yes,Gas
+1075157.03,307.05,6,4,90,14.21,575.69,7897.85,4.23,5.51,64.89,Detached House,Inner City,High,Yes,No,Gas
+438871.31,306.35,4,4,94,40.03,564.67,8840.55,6.2,1.58,67.4,Townhouse,Rural,,Yes,Yes,Electric
+168527.96,238.92,5,3,37,48.25,596.03,6896.26,4.06,4.3,3.52,Apartment,Rural,High,Yes,No,Electric
+432500.6,117.85,2,1,60,7.28,131.06,7526.44,5.09,4.67,34.55,Detached House,Rural,High,Yes,No,Gas
+194595.68,139.48,3,2,81,38.64,344.18,7942.77,6.56,1.91,7.67,Townhouse,Rural,High,Yes,Yes,
+909614.24,490.97,5,4,9,8.72,802.97,6833.32,8.47,3.8,98.21,Townhouse,Inner City,Moderate,No,Yes,Electric
+591787.35,491.36,5,3,61,13.78,1176.78,2528.11,8.95,3.15,94.85,Apartment,Suburban,High,No,Yes,Solar
+636271.44,95.35,4,3,83,12.94,191.68,7113.9,6.16,5.98,4.24,Apartment,Inner City,,Yes,No,
+699364.3,389.49,6,3,28,45.86,399.4,9668.13,9.4,7.79,45.99,Detached House,Inner City,Moderate,Yes,No,Solar
+462289.37,221.81,6,4,55,49.35,574.46,2182.77,3.12,2.29,5.11,Detached House,Suburban,Moderate,Yes,No,Solar
+973396.08,411.38,6,4,80,7.49,1082.86,8581.35,3.64,7.5,81.03,Detached House,Rural,,Yes,No,
+1009171.25,406.87,5,4,64,4.97,1111.56,2426.07,4.6,6.19,77.24,Townhouse,Inner City,Moderate,No,No,
+666818.48,357.84,6,4,16,4.16,1009.37,5457.54,2.48,1.83,59.0,Apartment,Suburban,Moderate,No,No,Solar
+889409.8,192.95,3,4,40,12.38,503.8,7007.91,6.34,9.2,55.82,Detached House,Inner City,,No,Yes,
+800945.05,180.87,5,3,56,18.49,550.36,8709.03,9.2,3.71,4.55,Detached House,Inner City,Moderate,No,Yes,Electric
+148073.65,272.67,3,4,5,36.22,744.95,5531.6,2.83,0.33,73.65,Townhouse,Rural,Moderate,No,No,Gas
+1006218.67,411.38,6,4,81,0.4,865.55,2215.85,6.67,0.38,25.59,Detached House,Suburban,High,No,Yes,
+731551.17,243.59,5,3,59,45.45,342.45,3409.7,3.72,8.68,14.81,Townhouse,Inner City,Moderate,Yes,Yes,
+644447.03,333.86,5,4,41,11.2,522.94,9261.91,7.69,3.56,69.45,Apartment,Suburban,,No,Yes,Electric
+797587.9,235.54,4,2,39,31.03,728.89,1413.34,9.21,8.6,66.25,Detached House,Inner City,,Yes,No,
+673427.76,418.9,5,3,86,46.2,1552.37,9306.15,7.76,5.47,5.54,Apartment,Inner City,High,Yes,Yes,Solar
+670445.76,175.06,4,3,30,30.67,669.21,5931.51,3.19,9.7,82.49,Detached House,Suburban,,Yes,No,Gas
+261471.64,139.95,4,3,88,31.81,518.69,1647.9,4.08,9.4,61.49,Apartment,Rural,,No,No,Solar
+777561.83,281.51,5,4,67,33.58,351.15,1897.98,6.6,9.62,77.41,Detached House,Suburban,High,Yes,Yes,Electric
+822837.75,235.56,6,4,35,14.65,751.75,9462.75,2.78,7.08,89.26,Detached House,Suburban,Moderate,Yes,No,Solar
+596293.68,149.22,4,3,9,19.86,387.3,9584.34,5.67,2.72,81.5,Townhouse,Inner City,Moderate,No,No,
+836957.73,374.63,6,3,61,20.78,1017.98,5079.12,9.72,8.31,4.91,Apartment,Suburban,,Yes,Yes,
+314693.93,60.76,1,1,28,9.66,202.51,2173.06,4.19,8.31,54.52,Apartment,Rural,,Yes,Yes,
+746486.51,467.68,5,4,80,20.65,660.92,4673.54,2.81,4.61,76.81,Detached House,Rural,Moderate,No,Yes,Gas
+538305.69,254.34,4,3,29,44.2,407.51,6437.49,4.72,6.44,81.35,Townhouse,Inner City,High,No,No,
+773565.13,490.97,5,3,24,34.92,1810.43,6643.82,4.45,4.15,2.74,Townhouse,Inner City,High,No,Yes,Electric
+779125.28,298.14,3,4,17,3.38,1118.4,2842.34,6.19,0.67,52.0,Townhouse,Inner City,High,Yes,No,
+444298.06,275.0,3,2,14,49.26,554.56,8993.98,5.5,8.12,50.69,Detached House,Rural,High,Yes,Yes,
+920363.27,322.4,4,3,12,1.75,722.47,2207.22,8.72,8.37,9.09,Townhouse,Suburban,,Yes,Yes,Electric
+906955.16,386.53,4,3,53,14.69,589.66,2196.02,8.66,9.33,98.88,Townhouse,Inner City,Moderate,Yes,Yes,Gas
+267167.38,86.82,1,3,71,38.22,195.06,6057.03,3.11,3.28,83.66,Apartment,Inner City,,Yes,Yes,Solar
+945890.3,447.87,5,4,44,17.1,1548.54,5866.07,8.79,7.41,90.1,Townhouse,Inner City,Moderate,Yes,Yes,
+443190.46,174.86,2,1,18,32.81,315.76,5749.05,7.92,7.96,35.78,Apartment,Inner City,High,Yes,No,Electric
+453617.41,182.84,2,2,22,15.95,217.09,3488.01,7.29,9.42,41.02,Townhouse,Rural,,No,No,Gas
+759923.94,492.41,6,4,98,47.47,544.3,3259.46,9.12,7.15,19.86,Townhouse,Inner City,High,Yes,No,Electric
+594180.72,311.64,6,4,18,23.63,492.37,8462.82,4.74,9.95,59.66,Apartment,Rural,,No,Yes,
+115548.44,288.14,5,4,68,36.55,551.33,2957.37,2.77,0.4,86.87,Apartment,Rural,High,No,No,
+586858.67,281.95,4,2,91,44.65,937.11,3462.01,7.5,5.01,77.61,Detached House,Inner City,High,No,Yes,Gas
+100000.0,207.19,4,3,74,43.95,228.51,9901.52,8.96,1.92,31.93,Apartment,Rural,High,No,No,Electric
+631917.92,150.55,5,4,62,38.25,577.21,1474.54,6.87,7.94,58.12,Apartment,Inner City,High,No,Yes,
+543386.35,91.33,1,1,86,28.47,295.85,7567.43,4.62,8.29,12.14,Townhouse,Inner City,,Yes,Yes,Electric
+1008062.14,359.11,6,3,44,15.54,750.32,2939.37,5.39,9.7,65.2,Townhouse,Inner City,,Yes,No,Solar
+731327.73,335.71,5,4,49,21.47,572.98,8587.52,2.85,8.95,24.4,Townhouse,Rural,High,No,Yes,Gas
+693068.99,277.26,5,4,2,23.64,646.01,2352.08,6.24,4.49,72.58,Townhouse,Suburban,High,No,Yes,
+101457.73,120.31,4,2,97,35.45,427.45,5393.25,5.22,0.72,34.08,Townhouse,Rural,Moderate,Yes,No,Electric
+683007.77,354.89,4,3,47,49.91,1058.67,7655.95,6.23,3.45,6.62,Detached House,Inner City,High,No,Yes,
+773886.68,273.05,4,4,2,0.93,572.64,8745.08,7.83,3.19,68.39,Detached House,Rural,High,No,Yes,Solar
+557825.54,116.63,5,3,30,29.17,172.73,6816.35,8.83,6.7,91.64,Townhouse,Suburban,High,No,Yes,Gas
+612281.62,137.07,3,4,18,13.54,547.8,8881.4,7.15,8.68,69.72,Detached House,Rural,Moderate,No,No,Gas
+1025708.89,145.24,5,4,17,2.84,384.1,5617.79,5.93,7.26,67.7,Detached House,Inner City,High,No,No,
+480325.69,267.21,4,4,39,20.69,1016.87,8858.48,8.31,2.07,53.09,Apartment,Suburban,High,No,No,Gas
+634906.24,308.65,5,4,15,3.81,919.62,5690.38,5.45,0.99,84.14,Townhouse,Rural,High,Yes,No,
+497092.33,220.4,3,2,10,10.79,740.36,4574.39,8.44,6.53,14.04,Townhouse,Rural,Moderate,Yes,No,
+473096.94,196.88,2,1,14,45.45,446.32,9133.87,7.45,2.7,73.87,Detached House,Inner City,Moderate,Yes,Yes,Electric
+763309.55,468.13,6,4,85,11.57,1164.01,5351.76,8.11,1.26,75.42,Detached House,Rural,,Yes,Yes,Gas
+100000.0,129.21,2,1,56,42.21,509.52,2983.01,4.35,1.41,38.8,Apartment,Rural,Moderate,Yes,No,Solar
+842775.73,355.71,5,4,2,30.64,1422.35,7007.69,8.53,9.49,33.47,Townhouse,Inner City,Moderate,No,No,Solar
+140905.03,192.9,4,3,49,49.09,579.71,1748.45,5.92,0.59,99.87,Townhouse,Suburban,High,No,No,Electric
+451438.82,349.81,4,2,50,28.44,1363.1,1822.0,9.94,0.49,27.25,Apartment,Suburban,High,Yes,Yes,
+374598.86,292.28,3,3,10,23.51,943.03,5310.33,3.19,7.18,10.75,Apartment,Rural,Moderate,No,No,
+684396.54,463.94,6,4,92,27.15,611.07,8378.12,7.1,0.36,93.29,Detached House,Rural,,Yes,Yes,Solar
+504662.12,91.36,3,3,36,15.77,332.42,8696.78,8.52,7.93,87.73,Townhouse,Suburban,Moderate,Yes,Yes,Gas
+565003.79,181.57,3,2,45,20.83,714.92,3054.03,9.53,0.39,30.98,Detached House,Inner City,Moderate,No,No,Gas
+646611.27,348.67,5,4,61,38.87,413.67,9738.21,9.74,7.12,12.36,Townhouse,Inner City,High,No,No,
+161480.41,84.18,2,2,83,42.5,135.53,1819.86,6.69,1.77,0.78,Detached House,Rural,,Yes,No,Solar
+668294.38,105.29,3,2,80,21.44,317.52,9982.36,8.24,9.02,73.96,Townhouse,Inner City,,No,Yes,Electric
+566581.42,340.25,5,4,16,7.68,457.79,8944.4,8.25,0.99,51.25,Townhouse,Suburban,Moderate,No,No,Gas
+191287.29,204.84,3,3,46,47.63,630.64,6945.92,3.55,6.44,23.14,Apartment,Suburban,Moderate,No,Yes,Electric
+651849.4,413.65,6,4,47,39.15,1369.54,9094.69,6.47,7.84,50.16,Townhouse,Suburban,Moderate,Yes,No,Gas
+524585.46,79.87,1,3,51,20.62,299.99,8372.06,2.55,5.22,32.87,Townhouse,Inner City,,No,Yes,
+1044289.73,432.5,5,3,52,14.28,919.63,6886.56,3.96,9.03,25.74,Detached House,Inner City,High,No,No,
+637538.02,342.19,5,4,25,21.5,1255.62,9032.72,9.54,9.06,88.77,Apartment,Suburban,Moderate,No,Yes,Gas
+463933.66,255.61,4,3,22,27.13,454.55,9698.82,3.46,3.19,66.45,Detached House,Rural,Moderate,No,No,Electric
+396987.24,169.25,4,3,20,35.68,607.59,2008.69,3.75,9.6,99.2,Townhouse,Rural,Moderate,Yes,No,Solar
+724935.45,61.0,4,4,13,23.15,83.39,5278.11,6.75,7.65,62.98,Detached House,Suburban,High,No,Yes,
+601877.64,369.48,6,3,30,48.85,1285.72,7641.77,7.99,3.21,26.09,Apartment,Inner City,Moderate,Yes,No,
+457971.27,86.69,1,2,69,39.54,279.61,7980.57,2.39,6.5,15.0,Townhouse,Inner City,,Yes,Yes,Solar
+713372.69,480.33,6,4,2,40.87,1349.46,3443.9,7.88,5.48,3.35,Townhouse,Suburban,,No,Yes,Electric
+572688.17,124.76,3,2,82,7.41,209.67,4520.37,3.86,5.25,28.76,Apartment,Inner City,,No,Yes,Gas
+259674.09,283.02,3,3,1,47.49,367.86,5225.28,9.86,5.02,87.83,Detached House,Rural,Moderate,No,No,Gas
+696360.48,231.68,4,2,41,8.34,608.47,7899.75,2.46,0.19,45.3,Townhouse,Inner City,High,Yes,No,Electric
+650246.63,114.4,3,2,6,22.65,343.71,2360.9,6.1,8.91,25.13,Detached House,Suburban,Moderate,No,Yes,Electric
+607662.36,440.94,6,4,63,14.93,1428.73,9934.32,9.14,3.75,68.01,Apartment,Rural,Moderate,No,Yes,Solar
+552598.89,432.71,6,3,36,42.97,1386.74,9037.83,8.5,8.61,28.33,Apartment,Rural,,Yes,Yes,Solar
+629334.69,232.22,3,3,11,3.3,355.48,7615.97,8.36,7.99,46.78,Townhouse,Rural,High,No,Yes,Electric
+581695.06,382.23,5,4,8,28.94,1076.94,3685.25,6.67,1.91,97.42,Detached House,Suburban,,No,No,
+632410.01,184.3,2,1,12,0.9,335.45,3695.05,9.61,1.2,92.9,Detached House,Suburban,High,No,Yes,Solar
+496931.81,425.45,5,3,52,22.1,1018.28,1454.04,7.39,4.35,98.06,Apartment,Rural,High,No,Yes,Solar
+560893.44,62.16,1,3,88,1.77,228.52,2890.36,4.26,7.58,73.36,Detached House,Rural,Moderate,No,No,Gas
+738808.75,105.48,4,3,77,2.92,360.75,5737.04,9.31,9.86,66.15,Apartment,Inner City,High,No,Yes,
+239297.05,191.53,3,3,35,29.33,278.44,7238.3,6.05,1.76,66.19,Townhouse,Rural,Moderate,No,Yes,Electric
+738039.18,309.06,4,2,52,40.54,1229.4,1534.62,5.66,9.06,53.19,Detached House,Inner City,High,No,No,Electric
+979390.23,462.72,6,4,27,29.7,622.5,4651.73,3.14,2.97,6.33,Detached House,Inner City,,Yes,No,Gas
+532801.96,350.61,5,3,61,42.48,519.78,2926.6,3.29,4.25,36.26,Townhouse,Inner City,Moderate,No,No,Electric
+560990.47,209.79,5,3,15,47.83,349.11,5474.36,2.18,3.97,83.09,Detached House,Suburban,High,Yes,Yes,Solar
+599704.0,212.32,4,4,47,17.08,445.37,9146.69,8.71,0.52,48.9,Apartment,Inner City,High,Yes,Yes,
+349454.63,183.81,2,2,28,10.67,387.88,3822.34,8.04,8.38,71.99,Apartment,Rural,Moderate,Yes,Yes,Electric
+601995.21,176.72,3,2,84,11.71,475.0,1475.19,3.28,9.04,26.93,Detached House,Rural,Moderate,No,Yes,Gas
+549606.43,475.21,5,4,81,49.74,796.15,6550.97,4.66,7.62,22.61,Detached House,Rural,,No,No,Electric
+858667.37,184.46,3,4,36,7.25,386.27,8949.2,6.15,9.48,80.44,Detached House,Inner City,Moderate,No,No,
+435778.29,72.35,2,3,7,9.5,198.49,7806.87,8.71,2.1,92.95,Detached House,Rural,High,Yes,No,
+678037.41,463.66,6,3,3,0.91,1521.14,8986.88,2.52,0.52,43.11,Apartment,Rural,Moderate,No,No,
+511270.46,367.1,4,2,99,25.53,883.18,2387.4,7.97,7.61,97.01,Detached House,Suburban,High,No,No,
+254014.14,200.18,3,2,95,44.25,419.58,5881.09,7.52,5.25,79.61,Apartment,Inner City,Moderate,Yes,No,
+549001.06,336.18,4,3,62,20.69,1336.19,9293.39,5.59,6.76,87.4,Apartment,Rural,High,Yes,Yes,Electric
+943002.4,387.77,4,4,91,20.21,1129.15,7879.0,8.1,4.95,54.34,Detached House,Inner City,High,Yes,No,
+327285.93,93.92,1,3,99,10.72,357.34,2415.16,4.18,2.04,10.6,Townhouse,Rural,,Yes,Yes,Electric
+595600.41,382.3,4,2,11,47.97,481.82,7790.76,9.78,8.99,90.99,Townhouse,Suburban,Moderate,Yes,Yes,Gas
+279699.14,88.1,2,3,91,40.1,140.37,8569.18,8.63,0.44,5.57,Apartment,Inner City,,Yes,Yes,
+180034.52,262.34,3,2,38,33.82,409.38,1307.62,4.78,3.69,41.16,Apartment,Suburban,,No,No,Electric
+494281.96,292.36,4,2,28,22.81,325.17,1169.57,5.25,1.88,85.2,Detached House,Suburban,,Yes,No,Electric
+566048.92,209.69,4,2,6,29.94,386.88,8013.44,8.0,2.37,33.18,Detached House,Suburban,,Yes,Yes,
+585275.0,234.28,5,4,17,29.89,503.73,7337.39,7.34,2.81,9.11,Townhouse,Suburban,,Yes,No,
+609205.51,466.91,5,3,88,45.27,1381.31,3014.15,5.7,7.66,75.29,Townhouse,Suburban,Moderate,No,Yes,Electric
+236816.22,181.5,2,2,54,26.56,392.77,3905.92,3.93,3.8,56.89,Townhouse,Rural,High,No,No,Electric
+804287.8,211.26,3,4,82,17.59,362.38,2176.8,2.46,3.52,32.09,Townhouse,Inner City,Moderate,Yes,Yes,Solar
+279038.84,199.03,4,4,45,27.49,412.95,2930.17,7.37,4.95,47.08,Apartment,Rural,Moderate,No,Yes,
+899575.9,381.67,5,4,16,24.02,960.0,5844.26,6.52,4.04,78.8,Detached House,Inner City,Moderate,No,No,Gas
+677303.28,257.64,6,3,80,6.64,282.15,2031.77,3.21,1.8,29.62,Apartment,Suburban,High,Yes,Yes,Gas
+225961.93,139.08,3,4,81,31.21,368.55,2696.19,8.55,3.84,99.78,Apartment,Rural,,No,Yes,Gas
+346384.42,184.18,2,2,46,43.33,217.72,7912.11,7.38,9.82,19.37,Detached House,Rural,High,Yes,Yes,Electric
+703845.74,327.03,4,4,51,48.63,683.45,1952.97,9.3,8.73,59.96,Detached House,Inner City,High,No,Yes,Solar
+105281.51,185.83,2,1,89,40.66,258.89,1532.46,8.6,3.1,40.3,Apartment,Suburban,,Yes,Yes,Electric
+401633.73,251.82,4,2,59,44.64,740.03,4553.41,5.08,4.65,64.35,Apartment,Inner City,Moderate,Yes,Yes,Solar
+998568.29,464.39,5,4,1,4.48,963.95,3524.94,4.54,9.22,42.6,Townhouse,Suburban,,No,No,Gas
+436902.25,390.77,4,3,51,35.26,439.19,7668.08,4.84,9.4,5.26,Apartment,Rural,Moderate,Yes,Yes,Gas
+343030.28,242.71,4,2,39,40.16,342.14,7343.39,8.56,7.94,89.11,Townhouse,Suburban,,Yes,No,Gas
+592321.97,265.58,6,3,49,9.28,647.7,6297.97,8.64,5.76,84.38,Apartment,Rural,High,Yes,Yes,Gas
+368846.77,170.29,4,3,35,37.6,387.26,2473.49,2.55,5.45,84.96,Apartment,Rural,High,Yes,Yes,Gas
+601289.18,228.63,5,4,68,47.89,616.57,7414.78,4.3,9.23,22.73,Apartment,Inner City,Moderate,No,Yes,
+100000.0,81.34,2,3,48,36.7,138.7,6111.27,9.8,0.21,70.84,Apartment,Suburban,High,Yes,No,Electric
+726766.21,418.28,6,4,2,19.03,1016.71,6482.91,7.02,0.82,20.38,Detached House,Rural,Moderate,Yes,No,
+686105.95,150.64,4,4,55,9.02,548.58,3008.81,2.99,5.84,6.56,Apartment,Inner City,Moderate,No,No,Gas
+387040.61,52.78,1,4,73,9.7,196.39,4404.89,2.52,3.52,88.48,Townhouse,Rural,Moderate,No,Yes,Gas
+668627.66,248.29,4,4,32,34.63,666.3,8771.67,7.06,7.57,20.3,Townhouse,Inner City,High,No,No,
+388409.18,70.44,1,2,23,10.0,182.45,9241.08,8.33,3.83,62.97,Apartment,Inner City,Moderate,No,No,Solar
+963321.44,339.98,4,3,75,3.01,1163.68,9658.97,3.24,8.54,77.23,Townhouse,Inner City,,Yes,No,
+407998.17,153.3,5,3,46,33.45,586.81,5345.79,4.59,8.3,39.11,Apartment,Rural,High,No,Yes,Electric
+502450.26,142.06,3,2,29,6.62,472.05,6845.17,7.03,4.08,32.09,Townhouse,Suburban,High,Yes,No,Electric
+1129788.62,358.17,6,3,13,1.33,1360.38,1908.95,3.64,5.08,31.9,Townhouse,Inner City,Moderate,Yes,Yes,
+411172.91,82.6,3,3,4,39.78,144.55,2667.18,5.04,3.42,73.4,Townhouse,Inner City,High,No,No,Gas
+550612.22,439.53,5,4,4,20.73,839.86,2691.4,8.98,5.65,71.63,Apartment,Rural,High,Yes,No,
+279488.89,68.03,1,1,86,44.35,268.76,7329.71,8.81,7.31,91.7,Townhouse,Inner City,High,Yes,No,
+1062303.17,475.88,6,4,79,19.21,1226.45,8073.98,7.64,9.05,90.64,Detached House,Suburban,Moderate,Yes,Yes,Electric
+411749.21,387.18,4,2,72,30.33,1323.56,7423.85,5.87,0.54,48.46,Townhouse,Suburban,High,No,Yes,Gas
+754106.43,361.36,6,4,70,14.66,839.32,7651.21,5.32,2.93,38.58,Detached House,Suburban,,No,No,Solar
+827289.68,414.41,6,4,31,44.66,1214.33,1824.95,9.64,6.59,95.2,Detached House,Inner City,,Yes,Yes,Gas
+533825.24,436.55,5,3,52,31.7,1222.89,3783.91,5.06,8.22,59.34,Townhouse,Rural,Moderate,No,No,Gas
+595219.8,214.51,5,4,28,35.37,851.98,7615.62,2.37,9.33,78.51,Townhouse,Suburban,,Yes,No,Solar
+774023.37,360.72,5,4,18,46.21,1202.07,5127.81,9.86,2.91,93.6,Detached House,Inner City,,No,Yes,Electric
+823131.72,493.51,6,3,39,31.7,1634.53,2532.93,7.15,8.15,18.57,Apartment,Inner City,High,No,Yes,
+835889.18,410.96,6,3,34,0.02,1421.24,4961.93,2.6,7.05,52.14,Townhouse,Rural,Moderate,No,No,
+685229.88,435.65,6,4,61,7.25,1595.23,9431.01,6.18,5.28,7.57,Townhouse,Rural,,No,No,Gas
+749399.24,308.61,5,4,65,3.34,1116.91,4778.24,8.49,4.6,75.45,Townhouse,Rural,Moderate,Yes,Yes,
+590489.35,220.11,5,4,14,41.88,696.08,4374.87,6.72,4.93,24.43,Detached House,Suburban,,Yes,No,Electric
+874396.07,423.05,5,4,61,27.24,768.18,5024.31,6.07,5.32,14.62,Townhouse,Inner City,,Yes,No,Solar
+201008.34,193.4,2,1,48,4.9,313.33,5307.31,6.66,0.16,48.59,Apartment,Rural,Moderate,No,Yes,Gas
+190423.38,119.22,3,4,35,36.11,396.67,5931.27,5.55,4.36,78.19,Apartment,Suburban,,No,Yes,
+563487.53,238.73,4,3,99,31.78,389.03,5661.14,6.12,5.04,39.73,Townhouse,Suburban,High,Yes,Yes,Gas
+495148.86,384.57,5,3,74,48.65,671.74,1066.49,2.06,4.48,9.38,Townhouse,Rural,Moderate,No,Yes,Gas
+455377.73,329.03,5,3,97,11.77,1054.58,3103.18,8.76,2.06,13.76,Apartment,Rural,High,No,Yes,Electric
+574987.74,240.27,3,3,73,29.22,847.34,8431.23,7.84,5.62,41.22,Detached House,Rural,,Yes,Yes,
+553111.26,399.65,4,4,87,24.25,448.86,9647.64,4.19,9.15,8.61,Apartment,Suburban,Moderate,Yes,No,Solar
+643988.63,146.95,3,3,7,22.7,401.02,1015.88,2.37,3.41,59.49,Detached House,Inner City,Moderate,No,No,Gas
+866358.77,492.04,5,4,98,2.42,996.65,5834.89,5.1,4.31,61.78,Apartment,Inner City,Moderate,Yes,No,Electric
+309563.73,190.72,3,4,4,33.79,638.56,2128.06,7.85,8.47,33.82,Townhouse,Rural,High,No,No,Gas
+281382.02,102.62,3,3,38,8.95,248.26,9557.07,9.49,5.54,70.67,Apartment,Rural,,Yes,No,
+565812.45,62.7,2,1,43,18.61,113.01,7237.07,3.9,4.05,74.35,Detached House,Inner City,Moderate,Yes,Yes,Electric
+1015702.45,444.49,5,4,81,2.1,530.74,1555.53,6.49,7.12,31.28,Detached House,Suburban,High,Yes,No,Solar
+561231.92,208.22,5,4,56,49.34,477.08,3023.45,6.74,9.27,60.63,Detached House,Rural,High,Yes,Yes,
+813866.59,212.68,4,4,56,0.74,523.43,8158.25,2.19,6.99,92.23,Apartment,Inner City,,Yes,No,Gas
+767360.52,448.45,6,4,76,39.72,758.6,4306.22,8.21,7.51,15.85,Detached House,Rural,,Yes,Yes,Electric
+903465.78,468.66,5,3,97,26.07,1318.82,3063.38,9.0,7.04,56.48,Detached House,Inner City,High,Yes,No,
+589803.69,398.49,5,4,91,29.58,1286.02,2923.85,8.06,5.98,76.19,Townhouse,Rural,,Yes,Yes,Electric
+352884.82,122.43,4,3,57,32.86,342.01,8885.07,5.77,5.73,50.04,Townhouse,Rural,,Yes,No,Electric
+785604.59,429.57,5,4,17,15.18,574.31,2721.2,9.1,7.89,50.05,Detached House,Rural,High,Yes,No,
+819506.13,148.56,3,2,59,15.5,350.84,9539.21,3.43,5.24,31.55,Detached House,Inner City,,Yes,Yes,Electric
+745889.02,194.77,4,2,10,12.66,452.51,7085.68,6.48,6.05,29.41,Apartment,Inner City,High,Yes,No,Solar
+803542.13,459.03,6,3,36,23.8,1819.86,5848.57,8.77,5.07,73.67,Apartment,Inner City,High,Yes,No,Gas
+677897.77,404.82,6,4,91,30.84,526.91,9236.78,7.0,4.85,39.81,Apartment,Inner City,Moderate,No,No,Solar
+562991.36,212.33,4,2,86,39.75,634.2,2483.74,3.88,4.12,30.43,Townhouse,Inner City,High,No,Yes,Electric
+782920.21,345.24,5,3,71,9.91,1173.2,8038.35,2.41,9.15,5.69,Townhouse,Rural,High,No,Yes,Electric
+224443.05,82.1,1,1,68,1.94,278.36,4187.08,2.86,0.36,96.94,Apartment,Suburban,,No,No,Solar
+289335.63,181.63,3,2,64,39.31,442.76,6216.38,8.54,5.63,81.16,Townhouse,Rural,Moderate,Yes,Yes,Solar
+932062.73,270.91,3,2,41,0.15,1005.74,5517.24,7.77,2.69,56.3,Detached House,Inner City,High,Yes,No,
+561504.95,321.96,4,3,86,43.87,844.62,1025.68,7.96,8.77,33.02,Townhouse,Inner City,High,No,Yes,Gas
+774570.0,377.21,5,3,22,20.29,756.98,6903.1,6.71,9.49,5.2,Detached House,Rural,High,Yes,Yes,
+601497.76,158.05,3,2,66,3.91,606.17,9620.64,5.98,5.0,62.41,Townhouse,Suburban,Moderate,No,No,Gas
+482525.51,139.91,4,3,21,3.7,490.67,7680.06,8.06,4.4,56.95,Apartment,Suburban,,Yes,No,Solar
+678165.29,275.33,5,4,59,38.85,840.74,4842.81,2.16,9.34,46.82,Detached House,Rural,Moderate,Yes,Yes,
+323073.36,239.66,4,3,59,40.57,822.77,9745.59,2.14,9.86,47.63,Apartment,Rural,High,Yes,No,Solar
+693825.72,473.7,6,4,33,40.12,1482.46,1220.27,3.47,5.6,35.41,Detached House,Rural,High,Yes,No,Electric
+582660.37,204.46,5,4,79,45.15,815.68,5766.25,7.77,9.6,35.97,Detached House,Rural,Moderate,Yes,Yes,
+649769.87,321.13,5,4,17,18.36,1047.08,2119.82,9.5,0.43,43.48,Townhouse,Rural,Moderate,Yes,Yes,
+630388.34,442.66,5,4,58,9.96,642.53,2974.39,3.27,7.61,44.43,Apartment,Rural,Moderate,Yes,No,Gas
+849986.03,463.31,6,4,20,38.71,712.69,8378.83,2.95,5.83,94.38,Townhouse,Inner City,High,Yes,No,Solar
+275139.12,244.54,3,3,68,41.61,799.15,1506.64,4.82,6.93,66.67,Townhouse,Rural,,Yes,No,Electric
+749108.22,264.34,4,4,57,2.63,763.34,1753.02,5.7,1.34,1.66,Townhouse,Inner City,Moderate,No,No,Solar
+750106.49,106.1,2,2,23,2.61,139.2,3207.27,9.41,8.23,92.5,Townhouse,Inner City,,Yes,Yes,Gas
+974862.9,483.63,6,3,27,5.5,1881.11,1558.22,9.5,0.74,24.48,Apartment,Inner City,Moderate,Yes,Yes,Electric
+401592.57,329.84,5,3,18,30.86,1010.95,4385.73,7.94,7.55,78.45,Apartment,Rural,High,Yes,No,Solar
+662222.98,151.18,3,4,26,22.65,200.53,7266.48,6.03,1.06,85.44,Detached House,Inner City,High,Yes,Yes,
+177112.98,85.54,2,2,64,37.68,261.82,3193.02,9.97,1.59,39.81,Apartment,Inner City,Moderate,Yes,No,Electric
+661129.92,429.82,5,4,18,8.27,577.41,4272.84,9.07,1.8,27.11,Detached House,Rural,Moderate,Yes,No,Gas
+586790.59,331.65,4,2,37,39.35,975.66,4042.99,5.53,4.89,55.11,Detached House,Inner City,Moderate,No,No,
+365292.32,357.2,5,4,41,40.12,1046.34,4615.17,9.9,0.09,27.13,Detached House,Rural,High,No,No,Electric
+691374.31,153.43,2,2,68,36.24,594.55,9861.05,7.17,9.14,59.09,Detached House,Inner City,Moderate,No,Yes,Electric
+706877.64,93.51,4,2,57,13.93,270.46,1963.06,3.85,8.5,67.15,Townhouse,Inner City,,No,No,
+401303.24,328.13,4,3,80,48.97,1036.88,2631.14,9.78,5.81,75.54,Detached House,Suburban,High,No,Yes,
+275418.66,234.99,4,2,44,42.07,902.94,3203.3,3.62,8.26,5.64,Apartment,Suburban,Moderate,No,No,
+693291.67,130.34,5,3,98,13.1,336.12,2486.71,7.26,9.98,82.72,Townhouse,Suburban,,Yes,No,Electric
+1021247.3,373.0,5,3,78,5.41,949.29,1971.99,8.8,3.9,90.23,Detached House,Inner City,,Yes,No,Electric
+630334.64,220.33,3,4,2,25.35,630.82,8265.66,6.25,7.07,32.82,Detached House,Rural,Moderate,Yes,No,
+652834.6,211.94,5,3,70,8.14,505.04,3003.52,8.11,2.46,84.46,Detached House,Rural,,Yes,Yes,Electric
+739941.99,120.64,3,3,62,2.29,161.43,9488.15,9.07,2.64,64.43,Detached House,Suburban,High,Yes,Yes,Electric
+696660.48,389.28,5,4,29,38.94,896.12,7034.72,8.64,4.52,70.99,Detached House,Suburban,Moderate,No,Yes,
+100000.0,99.58,3,2,91,43.65,321.36,9441.42,5.08,3.84,65.23,Apartment,Rural,Moderate,No,No,
+971108.41,461.4,5,3,25,14.63,833.74,5259.29,2.32,7.88,39.95,Townhouse,Inner City,Moderate,No,Yes,Electric
+396999.47,139.55,3,3,78,7.66,372.56,7762.16,5.92,0.08,50.19,Townhouse,Suburban,High,Yes,No,Gas
+100000.0,76.01,3,4,67,40.21,287.74,9500.63,4.68,3.54,4.76,Apartment,Rural,,No,No,
+822031.35,319.43,4,2,54,32.1,1210.56,8363.48,8.18,3.49,57.67,Detached House,Inner City,,Yes,Yes,
+531873.71,234.31,4,3,63,46.8,606.47,6038.74,2.2,1.77,90.22,Detached House,Inner City,Moderate,No,Yes,Solar
+513276.98,246.08,4,2,26,31.99,503.52,2182.43,6.93,1.87,15.73,Townhouse,Suburban,Moderate,Yes,Yes,Electric
+554981.76,192.32,2,3,43,37.36,430.84,8312.9,3.31,7.71,87.05,Detached House,Suburban,Moderate,Yes,Yes,
